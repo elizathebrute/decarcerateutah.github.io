@@ -1,7 +1,10 @@
 <aside>
 	<div class="container">
-    <h2>{{ site.title }}</h2>
-    <h5>{{ site.description }}</h5>
+    <div class="header">
+      <img src="/decarcerate_banner.jpg" />
+      <h1>{{ site.title }}</h1>
+      <h5>{{ site.description }}</h5>
+    </div>
 		<nav>
 			<ul>
         {% for page in site.pages %} {% if page.isheader %} {% if page.title %}
