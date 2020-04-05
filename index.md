@@ -1,8 +1,6 @@
 ---
 layout: page
 title: about
-isheader: true
-permalink: /about/
 ---
 
 Decarcerate Utah is a prison abolitionist group focused on education and outreach.
