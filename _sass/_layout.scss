@@ -85,6 +85,12 @@ ul {
   list-style-type: square;
 }
 
+img {
+  width: $content-width;
+  max-width: 100%;
+  height: auto;
+}
+
 .container {
   max-width: $content-width;
   margin: 0 auto;
@@ -96,18 +102,9 @@ ul {
   text-align: center;
   h1 {
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
-  h3 {
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-  img {
-    width: $content-width;
   }
 }
 
