@@ -96,15 +96,18 @@ ul {
   text-align: center;
   h1 {
     position: absolute;
-    top: 45%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
   h3 {
     position: absolute;
-    top: 75%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
+  }
+  img {
+    width: $content-width;
   }
 }
 
