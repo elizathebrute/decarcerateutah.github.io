@@ -2,7 +2,7 @@
 layout: post
 title: history of policing
 news: true
-date: 2019-12-03
+date: 2020-03-20
 ---
 
 I am an abolitionist because I want safety for every member of our community.

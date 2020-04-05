@@ -2,7 +2,7 @@
 layout: post
 title: as the risk of Covid-19 rises, it's time we grappled with incarceration in Utah
 news: true
-date: 2019-12-03
+date: 2020-03-27
 ---
 
 ![construction of the new prison]({{ '/images/construction-of-the-new-prison.png' | prepend: site.baseurl }})
