@@ -5,6 +5,8 @@ news: true
 date: 2019-12-03
 ---
 
+![construction of the new prison]({{ '/images/construction-of-the-new-prison.png' | prepend: site.baseurl }})
+
 Construction of the new state prison west of I-80 in Salt Lake.
 
 With the rise of COVID-19, we are adapting quickly to new realities. With changes to the
