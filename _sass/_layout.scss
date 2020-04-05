@@ -18,20 +18,21 @@ main {
 footer {
   text-align: center;
   padding: 0 40px;
-}
-
-footer ul {
-  list-style-type: none;
-}
-
-footer li {
-  display: inline;
-  padding: 0 10px;
-}
-
-footer i {
-  padding: 0 20px;
-  font-size: 24px !important;
+  ul {
+    list-style-type: none;
+  }
+  li, i {
+    padding: 0 15px;
+  }
+  li {
+    display: inline;
+  }
+  i {
+    font-size: 1.5em !important;
+  }
+  p {
+    padding: 0 0 0 30px;
+  }
 }
 
 h1, h2, h3 {
@@ -39,9 +40,6 @@ h1, h2, h3 {
   color: $heading-font-color;
   font-family: $heading-font;
   line-height: 1.5;
-}
-
-h1, h2, h3 {
   a, a:visited {
     text-decoration: none;
     color: $heading-font-color;
