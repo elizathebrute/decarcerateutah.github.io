@@ -10,14 +10,28 @@ body {
 
 main {
   background: $main-background-color;
-  padding: 50px 15px;
+  padding: 190px 15px;
   max-width: $content-width;
   margin: 0 auto 50px;
 }
 
 footer {
   text-align: center;
-  padding: 20px 0 40px;
+  padding: 0 40px;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+footer li {
+  display: inline;
+  padding: 0 10px;
+}
+
+footer i {
+  padding: 0 20px;
+  font-size: 24px !important;
 }
 
 h1, h2, h3 {
@@ -27,22 +41,26 @@ h1, h2, h3 {
   line-height: 1.5;
 }
 
-h1 {
-  font-size: 2.5em;
+h1, h2 {
   a, a:visited {
     text-decoration: none;
     color: $heading-font-color;
   }
 }
 
-h2 {
+h1 {
   font-size: 2em;
+}
+
+h2 {
+  font-size: 1.75em;
 }
 
 a, a:visited {
   color: $link-color;
   text-decoration: none;
   font-family: $link-font;
+  padding: 0 3px;
 }
 
 a:hover {
@@ -55,48 +73,12 @@ ul {
   list-style-type: square;
 }
 
-.section-list {
-  font-family: $link-font;
-}
-
-blockquote, .highlight {
-  background: $blockquote-background-color;
-  padding: 5px 25px;
-  margin: 30px 15px;
-  outline: $blockquote-outline-color double 3px;
-}
-
-blockquote.proof {
-  background: $proof-background-color;
-  margin: 30px 20px;
-  border: 1px solid $proof-border-color;
-  outline: none;
-}
-
 .container {
+  h2, h5 {
+    text-align: center;
+  }
   max-width: $content-width;
   margin: 0 auto;
-}
-
-.breadcrumbs {
-  display: flex;
-  justify-content: space-between;
-}
-
-code {
-  font-family: $code-font;
-}
-
-.language-plaintext {
-  color: $code-color;
-  font-family: $code-font;
-  font-weight: 600;
-  padding: 0 1px;
-}
-
-.mjx-chtml {
-  color: $code-color;
-  font-weight: 600 !important;
 }
 
 /* Aside */

@@ -1,17 +1,12 @@
 $content-width: 800px;
-$body-background-color: #000000;
-$main-background-color: #353535;
-$font-color: #c9c9c9;
-$link-color: #19ccaa;
-$heading-font-color: #49a8de;
-$light: #ffffff;
+$body-background-color: #ffffff;
+$main-background-color: #ffffff;
+$font-color: #000000;
+$link-color: #1f7ba8;
+$heading-font-color: #000000;
+$light: #777777;
 
-$nav-background-color: $body-background-color;
-$blockquote-background-color: $body-background-color;
-$blockquote-outline-color: $heading-font-color;
-$proof-background-color: #252525;
-$proof-border-color: #858585;
-$code-color: $light;
+$nav-background-color: $main-background-color;
 
 $font: 'Arvo', sans-serif;
 $heading-font: 'Source Code Pro', monospace;
