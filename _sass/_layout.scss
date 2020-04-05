@@ -10,7 +10,7 @@ body {
 
 main {
   background: $main-background-color;
-  padding: 385px 15px 0;
+  padding: 0 15px;
   max-width: $content-width;
   margin: 0 auto 50px;
 }
@@ -93,17 +93,18 @@ ul {
 }
 
 .header {
+  padding: 50px 0 0;
   position: relative;
   text-align: center;
   h1 {
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
   h3 {
     position: absolute;
-    top: 70%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
