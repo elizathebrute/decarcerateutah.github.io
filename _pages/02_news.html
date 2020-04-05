@@ -1,0 +1,14 @@
+---
+layout: page
+title: news
+isheader: true
+permalink: /news/
+---
+
+<div class="posts">
+  {% for post in site.posts %} {% if post.news %}
+    <hr />
+    {% include post.html %}
+  {% endif %} {% endfor %}
+</div>
+

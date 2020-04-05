@@ -60,11 +60,21 @@ h3 {
   font-size: 1em;
 }
 
+.post h2 {
+  font-size: 1.25em;
+  font-weight: 600;
+  font-family: $title-font;
+}
+
+.date {
+  font-size: 0.75em;
+  font-family: $date-font;
+}
+
 a, a:visited {
   color: $link-color;
   text-decoration: none;
   font-family: $link-font;
-  padding: 0 3px;
 }
 
 a:hover {
