@@ -5,7 +5,8 @@
     {% assign local = page %}
   {% endif %}
   {% include post_title.html %}
-  <div class="post-content">
-    {{ local.content }}
+  <div class="post-excerpt">
+    {{ local.excerpt }}
+    <a href="{{ local.url }}">...read more...</a>
   </div>
 </article>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: history of policing
+title: abolition now!
 news: true
 date: 2020-03-20
 ---
@@ -15,6 +15,7 @@ autonomy and closure.
 
 I am an abolitionist because I know that punishing those who cause harm will
 never heal victims.
+<!--more-->
 
 I am an abolitionist because I want a society that supports education,
 wellness, and connection.

@@ -20,6 +20,7 @@ undocumented, our disabled community, and those who are financially insecure or 
 insecure housing. It’s time to re-imagine how we structure our economy and promote our
 well-being, as this crisis reveals the gaps where our systems we’ve created do not meet
 our needs when it matters the most.
+<!--more-->
 
 This past week we have seen many members of our Utah community step it up to reach out to
 others who are in need during this crisis. A

@@ -64,6 +64,10 @@ h3 {
   font-family: $title-font;
 }
 
+.post-excerpt {
+  padding-bottom: 10px;
+}
+
 .date {
   font-size: 0.75em;
   font-family: $date-font;
@@ -106,6 +110,11 @@ img {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+}
+
+.post {
+  border-top: 1px dotted $post-delimiter-color;
+  border-bottom: 1px dotted $post-delimiter-color;
 }
 
 /* Aside */
