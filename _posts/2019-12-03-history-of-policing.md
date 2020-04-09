@@ -7,7 +7,7 @@ date: 2019-12-03
 
 On December 12th, we held a workshop about the History of Policing.
 You can find the
-<a href="http://criticalresistance.org/policing-timeline/">history of policing notes</a>
+[history of policing notes](http://criticalresistance.org/policing-timeline/)
 here.
 
 Thank you to those who came and learned about this important topic.

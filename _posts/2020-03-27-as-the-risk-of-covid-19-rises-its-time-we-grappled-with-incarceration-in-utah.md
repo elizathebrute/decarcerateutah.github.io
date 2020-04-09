@@ -5,9 +5,11 @@ news: true
 date: 2020-03-27
 ---
 
-![construction of the new prison]({{ '/images/construction-of-the-new-prison.png' | prepend: site.baseurl }})
-
-Construction of the new state prison west of I-80 in Salt Lake.
+{% include image.html
+  filename="/images/construction-of-the-new-prison.png"
+  description="construction of the new prison"
+  caption="Construction of the new state prison west of I-80 in Salt Lake"
+%}
 
 With the rise of COVID-19, we are adapting quickly to new realities. With changes to the
 way we go to school, work, or access social services, it is a good time to reconsider how
@@ -21,11 +23,9 @@ our needs when it matters the most.
 
 This past week we have seen many members of our Utah community step it up to reach out to
 others who are in need during this crisis. A
-<a href="https://www.facebook.com/groups/covid19mutualaidslc">
-mutual aid group</a>
+[mutual aid group](https://www.facebook.com/groups/covid19mutualaidslc)
 has raised over $20,000 to reach people through solidarity work, and celebrity
-<a href="https://www.sltrib.com/news/2020/03/20/salt-lake-city-actor-ty/">
-Ty Burrell has created a fund for servers</a>
+[Ty Burrell has created a fund for servers](https://www.sltrib.com/news/2020/03/20/salt-lake-city-actor-ty)
 who are now out of work with the closure of many restaurants and bars. There are
 many cases of businesses raising money to support nurses or neighbors coming together to
 make sure they have their needs covered. Utah is acting in ways that show our
@@ -35,28 +35,23 @@ bars.
 
 People incarcerated, and the staff who work at jails and prisons, are at incredible risk
 of a rapid spread of COVID-19. In Utah, there are
-<a href="https://www.prisonpolicy.org/profiles/UT.html">
-upwards of 30,000 people who are being involuntarily held or monitored by the criminal
-justice system</a>:
+[upwards of 30,000 people who are being involuntarily held or monitored by the criminaljustice system](https://www.prisonpolicy.org/profiles/UT.html):
 be they in state, private, or federal prisons; county jails; or those who are on probation
 or parole. Those who are locked up live in closed and confined areas, and experience
 unsanitary conditions of all kinds. There is no way to social distance, and much of the
 population consists of people over the age of 51, disabled folks, and others who are
 immunocompromised. Inmates are at the highest risk of medical mistreatment and neglect. An
 overcrowded system will only intensify an already spiraling crisis.
-<a href="https://www.standard.net/news/local/nursing-shortage-plagues-weber-county-jail-davis-helps-with-staffing/article_acc0fef8-420c-5c44-ba26-75f186fe7687.html">
-Nurses at the Weber County Jail are already overwhelmed.</a>
+[Nurses at the Weber County Jail are already overwhelmed.](https://www.standard.net/news/local/nursing-shortage-plagues-weber-county-jail-davis-helps-with-staffing/article_acc0fef8-420c-5c44-ba26-75f186fe7687.html)
 
 While folks are self-quarantined, we need to confront the harmful role of policing and
 prisons during this event.
-<a href="https://www.apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2019/01/29/law-enforcement-violence">
-Policing was declared a public health issue by the American Public Health Association in 2018</a>;
+[Policing was declared a public health issue by the American Public Health Association in 2018](https://www.apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2019/01/29/law-enforcement-violence)
 in this situation these risks are only exaggerated, and the cost will likely be paid by
 marginalized communities. In cities around the world on lockdown, we’re hearing reports of
 police giving fines for going out past curfew or for holding events with more than 10
 people. The Department of Justice has asked to waive our civil liberties and
-<a href="https://www.politico.com/news/2020/03/21/doj-coronavirus-emergency-powers-140023">
-keep people detained indefinitely</a>
+[keep people detained indefinitely](https://www.politico.com/news/2020/03/21/doj-coronavirus-emergency-powers-140023)
 during this crisis. We are at risk of reacting in authoritarian ways that not only
 encroach on our essential rights, but exacerbate economic instability and inequality at
 the same time.
@@ -64,8 +59,7 @@ the same time.
 Once the virus hits our incarcerated folks it should come as no surprise to see how
 rapidly this crisis may spread. Time is of the essence: it is important we act both
 swiftly and in line with a long-term vision toward prison abolition.
-<a href="https://www.sltrib.com/news/2020/03/21/hundreds-utah-inmates/?fbclid=IwAR3h509JVCqAxjVwOyT3oqSWd2O2rZjLO6CIHqYuUjQlgD4CAXpRzY_eoEc">
-Salt Lake and other counties are already pre-emptively acting</a>
+[Salt Lake and other counties are already pre-emptively acting](https://www.sltrib.com/news/2020/03/21/hundreds-utah-inmates/?fbclid=IwAR3h509JVCqAxjVwOyT3oqSWd2O2rZjLO6CIHqYuUjQlgD4CAXpRzY_eoEc)
 by releasing low-level offenders, but we must go much further to reduce our incarcerated
 population. After all, despite many stigmas that they face, these are our extended
 brothers and sisters that face struggles and have the right to heal.
@@ -109,8 +103,7 @@ should the virus break out inside. They need access to medical grade soap, showe
 sanitary hand-washing facilities.
 
 - End charges for all phone and video calls. Right now
-<a href="https://corrections.utah.gov/index.php/home/alerts-2/1237-udc-coronavirus-updates">
-inmates in Utah supposedly have access to 10 free phone calls for 15 minutes each</a>,
+[inmates in Utah supposedly have access to 10 free phone calls for 15 minutes each](https://corrections.utah.gov/index.php/home/alerts-2/1237-udc-coronavirus-updates),
 after which regular charges kick in.  Visitation is a huge factor in reduced recidivism
 rates and can improve an inmates overall morale and connection to a support system. All
 video and phone calls should be provided free of charge during this time.
