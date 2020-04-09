@@ -7,6 +7,6 @@
   {% include post_title.html %}
   <div class="post-excerpt">
     {{ local.excerpt }}
-    <a href="{{ local.url }}">...read more...</a>
+    <a href="{{ local.url | prepend: site.baseurl }}">...read more...</a>
   </div>
 </article>

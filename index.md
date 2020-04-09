@@ -1,6 +1,6 @@
 ---
 layout: default
-title: decarcerate utah
+title: news | decarcerate utah
 ---
 
 <div class="posts">
