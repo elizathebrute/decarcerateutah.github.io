@@ -1,0 +1,30 @@
+<aside>
+	<div class="container">
+		<nav>
+			<ul>
+        {% for node in site.pages %} {% if node.title %}
+          {% if node.url == page.url %}
+            <li>
+              <a href="{{ node.url | prepend: site.baseurl }}" class="active">
+                {{ node.title | remove: ' | decarcerate utah' }}
+              </a>
+            </li>
+          {% else %}
+            <li>
+              <a href="{{ node.url | prepend: site.baseurl }}">
+                {{ node.title | remove: ' | decarcerate utah' }}
+              </a>
+            </li>
+          {% endif %}
+        {% endif %} {% endfor %}
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<div class="header">
+  <a href="{{ '/' | prepend: site.baseurl }}">
+    <img src="{{ '/images/decarcerate-logo.png' | prepend: site.baseurl }}" />
+  </a>
+</div>
+

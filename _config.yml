@@ -1,0 +1,14 @@
+# site settings
+title: decarcerate utah
+email: decarcerateutah@gmail.com
+description: a prison abolitionist group
+baseurl: '/decarcerate-utah'
+url: 'https://itscomputers.github.io/'
+twitter_username: decarcerateutah
+github_username: itscomputers
+
+# build settings
+markdown: kramdown
+include:
+  - _pages
+excerpt_separator: <!--more-->

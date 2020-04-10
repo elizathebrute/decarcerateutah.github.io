@@ -1,0 +1,27 @@
+$content-width: 800px;
+$body-background-color: #f3f3f3;
+$main-background-color: #ffffff;
+
+$font-color: #000000;
+$link-color: #1f7ba8;
+$link-hover-color: #1f1fa8;
+$heading-font-color: #000000;
+
+$post-delimiter-color: #cccccc;
+
+$nav-background-color: $main-background-color;
+
+$font: 'Arvo', sans-serif;
+$heading-font: 'Source Code Pro', monospace;
+$link-font: 'Arvo', serif;
+$title-font: 'Source Code Pro', monospace;
+$date-font: 'Arvo', serif;
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+

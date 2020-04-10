@@ -1,0 +1,11 @@
+<article class="post">
+  {% if post %}
+    {% assign local = post %}
+  {% else %}
+    {% assign local = page %}
+  {% endif %}
+  {% include post_title.html %}
+  <div class="post-content">
+    {{ local.content }}
+  </div>
+</article>
