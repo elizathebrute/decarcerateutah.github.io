@@ -115,6 +115,26 @@ img {
   border-bottom: 1px dotted $post-delimiter-color;
 }
 
+.links {
+  ul {
+    list-style-type: none;
+    li {
+      margin: 15px 0;
+      a {
+        padding: 5px 10px;
+        background: $link-button-color;
+        color: $link-button-text-color;
+        border-radius: 5px;
+        &:hover, &:active {
+          background: $link-button-hover-color;
+          color: $link-button-hover-text-color;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
 /* Aside */
 
 aside {
