@@ -1,0 +1,16 @@
+<article class="event">
+  {% if node %}
+    {% assign local = node %}
+  {% else %}
+    {% assign local = page %}
+  {% endif %}
+  <a href="{{ local.url }}"><h1>{{ local.title }}</h1></a>
+  <h4>{{ local.date | date: '%a, %b %d, %Y' }}</h4>
+  <h4>{{ local.time }}</h4>
+  <h4>{{ local.location }}</h4>
+  <br />
+  <div class="event-content">
+    <h4>Details</h4>
+    <p>{{ local.content }}</p>
+  </div>
+</article>

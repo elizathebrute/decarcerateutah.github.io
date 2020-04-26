@@ -5,8 +5,8 @@ title: news | decarcerate utah
 ---
 
 <div class="posts">
-  {% for post in site.posts %} {% if post.news %}
+  {% for post in site.posts %}
     {% include post_excerpt.html %}
-  {% endif %} {% endfor %}
+  {% endfor %}
 </div>
 

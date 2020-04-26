@@ -11,4 +11,5 @@ github_username: decarcerateutah
 markdown: kramdown
 include:
   - _pages
+  - _events
 excerpt_separator: <!--more-->

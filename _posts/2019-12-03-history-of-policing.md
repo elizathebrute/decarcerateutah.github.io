@@ -1,7 +1,6 @@
 ---
 layout: post
 title: history of policing
-news: true
 date: 2019-12-03
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: abolition now!
-news: true
 date: 2020-03-20
 ---
 

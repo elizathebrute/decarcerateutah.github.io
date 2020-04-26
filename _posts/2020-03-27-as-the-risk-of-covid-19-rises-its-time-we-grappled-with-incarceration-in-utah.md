@@ -1,7 +1,6 @@
 ---
 layout: post
 title: as the risk of Covid-19 rises, it's time we grappled with incarceration in Utah
-news: true
 date: 2020-03-27
 ---
 

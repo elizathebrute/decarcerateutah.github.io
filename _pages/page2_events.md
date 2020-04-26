@@ -6,8 +6,8 @@ permalink: /events/
 ---
 
 <div class="events">
-  {% for post in site.posts %} {% if post.event %}
-    {{ post.content }}
+  {% for node in site.pages %} {% if node.event %}
+    {% include event.html %}
   {% endif %} {% endfor %}
 </div>
 
