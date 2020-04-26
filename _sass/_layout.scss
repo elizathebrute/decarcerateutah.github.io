@@ -121,6 +121,9 @@ blockquote {
     li {
       margin: 15px 0;
       a {
+        text-transform: uppercase;
+        text-decoration: none;
+        font-family: $links-page-font;
         padding: 5px 10px;
         background: $link-button-color;
         color: $link-button-text-color;
@@ -148,6 +151,9 @@ footer {
   }
   li {
     display: inline;
+    a {
+      color: $font-color;
+    }
   }
   i {
     font-size: 1.25em !important;
