@@ -77,7 +77,6 @@ blockquote {
   border-bottom: 1px dotted $post-delimiter-color;
   h1 a {
     font-family: $title-font;
-    font-size: 28pt;
     &:hover {
       color: $font-color;
     }
@@ -113,7 +112,7 @@ blockquote {
 }
 
 .header {
-  padding: 50px 0 0;
+  padding: $header-image-padding-top 0 0;
   position: relative;
   text-align: center;
 }
@@ -192,10 +191,11 @@ aside {
         a {
           text-decoration: none;
           display: block;
-          padding: 15px;
+          padding: $nav-padding-vert $nav-padding-horiz;
           font-family: $nav-font;
+          font-size: $nav-font-size;
           color: $nav-text-color !important;
-          line-height: 20px;
+          line-height: $nav-line-height;
           margin-bottom: -1px;
           box-shadow: 0;
           &:hover,

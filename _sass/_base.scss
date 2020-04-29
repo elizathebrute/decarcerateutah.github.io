@@ -4,12 +4,10 @@ $main-background-color: #ffffff;
 
 $font-color: #000000;
 $link-color: #155675;
-$link-hover-color: #1f1fa8;
 $heading-font-color: #000000;
 
 $link-button-color: #000000;
 $link-button-text-color: #ffffff;
-
 $link-button-hover-color: #cccccc;
 $link-button-hover-text-color: #000000;
 
@@ -17,6 +15,12 @@ $post-delimiter-color: #cccccc;
 
 $nav-background-color: $main-background-color;
 $nav-text-color: $font-color;
+$nav-line-height: 24px;
+$nav-font-size: 16pt;
+$nav-padding-vert: 15px;
+$nav-padding-horiz: 20px;
+
+$header-image-padding-top: $nav-line-height + 2*$nav-padding-vert;
 
 $font: 'Fanwood Text', sans-serif;
 $heading-font: 'Philosopher', serif;
