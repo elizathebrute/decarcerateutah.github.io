@@ -8,4 +8,4 @@ time: 7:00pm MST
 location: Mestizo Gallery 631 W. North Temple
 ---
 
-This the description of the event.
+We will be discussing the links between the prison relocation and Utah's inland port to connect environmental justice with racial and community justice. 
