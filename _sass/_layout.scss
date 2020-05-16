@@ -92,8 +92,16 @@ blockquote {
   }
 }
 
+.empty-top {
+  border-bottom: 5pt solid black;
+}
+.empty-bottom {
+  border-bottom: 5pt solid black;
+}
+
 .event {
-  border-bottom: 1px dotted $post-delimiter-color;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
   padding-bottom: 20px;
   h1 {
     margin: 20px 0;
@@ -103,6 +111,21 @@ blockquote {
   }
   h4, p {
     margin: 0;
+  }
+}
+
+.contact {
+  text-align: center;
+  text-transform: uppercase;
+  h3 {
+    border-top: 5pt solid black;
+    border-bottom: 5pt solid black;
+    margin: 0;
+    padding: 15pt 0;
+    a {
+      color: $link-color;
+      font-family: $heading-font;
+    }
   }
 }
 

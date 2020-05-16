@@ -5,9 +5,12 @@ nav: true
 permalink: /events/
 ---
 
+{% assign events = site.pages | where: "event", "true" | reverse %}
 <div class="events">
-  {% for node in site.pages %} {% if node.event %}
+  <div class="empty-top"></div>
+  {% for node in events %}
     {% include event.html %}
-  {% endif %} {% endfor %}
+  {% endfor %}
+  <div class="empty-bottom"></div>
 </div>
 
