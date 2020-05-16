@@ -19,8 +19,9 @@ $nav-line-height: 24px;
 $nav-font-size: 15pt;
 $nav-padding-vert: 15px;
 $nav-padding-horiz: 10px;
+$header-image-offset: 20px;
 
-$header-image-padding-top: $nav-line-height + 2*$nav-padding-vert;
+$header-image-padding-top: $nav-line-height + 2*$nav-padding-vert + $header-image-offset;
 
 $font: 'Fanwood Text', sans-serif;
 $heading-font: 'Philosopher', serif;
