@@ -1,25 +1,20 @@
 ---
 layout: post
 title: Decarcerate Utah Open Letter to Salt Lake County Officials
+description: Incarceration is harmful to the health of everyone in jails, prisons, and detention centers, and not only during times of global health crisis. Read our open letter we sent to Salt Lake County officials to free inmates being held at the Oxbow and Metro Jails while there were active cases of COVID-19.
+teaser_image: /images/teasers/open-letter.jpg
 date: 2020-04-27
 ---
 
-Salt Lake County Council
+Salt Lake County Council<br />
+Salt Lake County Sheriff’s Office<br />
+Salt Lake County District Attorney’s Office<br />
+Salt Lake County Probation Department<br />
+Salt Lake County Justice Court<br />
+Salt Lake County Board of Supervisors<br />
+Salt Lake County Department of Health<br />
+Immigration and Customs Enforcement, Salt Lake County<br />
 <br />
-Salt Lake County Sheriff’s Office
-<br />
-Salt Lake County District Attorney’s Office
-<br />
-Salt Lake County Probation Department
-<br />
-Salt Lake County Justice Court
-<br />
-Salt Lake County Board of Supervisors
-<br />
-Salt Lake County Department of Health
-<br />
-Immigration and Customs Enforcement, Salt Lake County
-<br /><br />
 
 **April 27, 2020**
 
@@ -32,7 +27,6 @@ incarcerated, their loved ones, and the people who work in these facilities. The
 COVID-19 pandemic adds a concentrated urgency to this reality and foregrounds
 important truths about how incarceration exacerbates long-standing social
 disparities.
-<!--more-->
 
 Prior to the pandemic, Utah already had one of the highest rates of jail deaths
 per capita in the nation. In 2017, UT saw more jail deaths than any other state.

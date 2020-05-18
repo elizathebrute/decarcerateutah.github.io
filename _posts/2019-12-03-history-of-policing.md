@@ -1,6 +1,8 @@
 ---
 layout: post
-title: history of policing
+title: History of Policing
+description: Read about our workshop held in December about the history of policing. Find resources for an overview of policing Critical Resistance compiled that traces the evolution of policing in the US, and people's resistance to it.
+teaser_image: /images/teasers/history-of-policing.jpg
 date: 2019-12-03
 ---
 

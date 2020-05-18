@@ -150,6 +150,24 @@ blockquote {
   text-align: center;
 }
 
+.post-teaser {
+  display: flex;
+  .image-column {
+    flex: 60%;
+    padding: 10px;
+    a figure {
+      margin: 0;
+    }
+  }
+  .description-column {
+    flex: 40%;
+    padding: 10px;
+    p {
+      margin: 0;
+    }
+  }
+}
+
 .links {
   ul {
     list-style-type: none;

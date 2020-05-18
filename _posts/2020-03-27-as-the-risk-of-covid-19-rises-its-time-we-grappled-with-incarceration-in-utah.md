@@ -1,12 +1,13 @@
 ---
 layout: post
-title: as the risk of Covid-19 rises, it's time we grappled with incarceration in Utah
+title: As the risk of Covid-19 rises, it's time we grappled with incarceration in Utah
+description: It’s time to re-imagine how we structure our economy and promote our well-being, as this crisis reveals the gaps where our systems we’ve created do not meet our needs when it matters the most.
+teaser_image: /images/teasers/as-the-risk-of-covid-19-rises.jpg
 date: 2020-03-27
 ---
 
 {% include image.html
   filename="/images/construction-of-the-new-prison.png"
-  description="construction of the new prison"
   caption="Construction of the new state prison west of I-80 in Salt Lake"
 %}
 
@@ -19,7 +20,6 @@ undocumented, our disabled community, and those who are financially insecure or 
 insecure housing. It’s time to re-imagine how we structure our economy and promote our
 well-being, as this crisis reveals the gaps where our systems we’ve created do not meet
 our needs when it matters the most.
-<!--more-->
 
 This past week we have seen many members of our Utah community step it up to reach out to
 others who are in need during this crisis. A

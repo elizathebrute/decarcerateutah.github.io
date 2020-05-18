@@ -1,6 +1,7 @@
 ---
 layout: default
 nav: true
+permalink: /posts/
 title: news | decarcerate utah
 ---
 

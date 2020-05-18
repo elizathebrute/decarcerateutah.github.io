@@ -1,0 +1,11 @@
+<article class="post-teaser">
+  <div class="image-column">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      {% include post_image.html %}</a>
+  </div>
+  <div class="description-column">
+    <p>{{ post.description }}</p>
+    <p><a href="{{ post.url | prepend: site.baseurl }}">...read more...</a></p>
+  </div>
+</article>
+
