@@ -1,6 +1,5 @@
 ---
 layout: default
-nav: true
 title: news | decarcerate utah
 ---
 

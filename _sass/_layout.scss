@@ -93,10 +93,10 @@ blockquote {
 }
 
 .empty-top {
-  border-bottom: 5pt solid black;
+  border-bottom: 5px solid black;
 }
 .empty-bottom {
-  border-bottom: 5pt solid black;
+  border-bottom: 5px solid black;
 }
 
 .event {
@@ -118,8 +118,8 @@ blockquote {
   text-align: center;
   text-transform: uppercase;
   h3 {
-    border-top: 5pt solid black;
-    border-bottom: 5pt solid black;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
     margin: 0;
     padding: 15pt 0;
     overflow: auto;
@@ -152,6 +152,8 @@ blockquote {
 
 .post-teaser {
   display: flex;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
   .image-column {
     flex: 60%;
     padding: 10px;
