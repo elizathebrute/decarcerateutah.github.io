@@ -150,23 +150,20 @@ blockquote {
   text-align: center;
 }
 
+.posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+}
+
 .post-teaser {
-  display: flex;
-  border-top: 5px solid black;
-  border-bottom: 5px solid black;
-  .image-column {
-    flex: 60%;
-    padding: 10px;
-    a figure {
-      margin: 0;
-    }
+  max-width: 400px;
+  padding: 20px 10px;
+  a figure, p {
+    padding: 0;
+    margin: 0;
   }
-  .description-column {
-    flex: 40%;
-    padding: 10px;
-    p {
-      margin: 0;
-    }
+  .read-more {
+    text-align: center;
   }
 }
 
