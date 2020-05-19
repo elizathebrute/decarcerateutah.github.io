@@ -12,4 +12,7 @@ markdown: kramdown
 include:
   - _pages
   - _events
-excerpt_separator: <!--more-->
+plugins:
+  - jekyll-paginate
+paginate: 10
+paginate_path: "/posts/:num/"

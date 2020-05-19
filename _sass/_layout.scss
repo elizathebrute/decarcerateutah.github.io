@@ -167,6 +167,30 @@ blockquote {
   }
 }
 
+.all-posts {
+  text-align: center;
+  h3 a {
+    text-decoration: underline;
+    color: $link-color;
+  }
+}
+
+.pagination {
+  font-size: 20px;
+  text-align: center;
+  .active {
+    font-weight: 600;
+  }
+  a, span {
+    font-family: $small-heading-font;
+    padding: 0 5px;
+  }
+}
+
+.featured {
+  border: 2px solid black;
+}
+
 .links {
   ul {
     list-style-type: none;
