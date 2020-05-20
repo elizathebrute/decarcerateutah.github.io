@@ -1,0 +1,15 @@
+---
+layout: default
+title: news | decarcerate utah
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    {% include post_teaser.html %}
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+  {% include pagination.html %}
+{% endif %}
+
