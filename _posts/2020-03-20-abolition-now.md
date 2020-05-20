@@ -4,7 +4,6 @@ title: Abolition Now!
 description: Submission from Eliza McKinney for Decarcerate Utah’s first publication.
 teaser_image: /images/teasers/abolition-now.jpg
 date: 2020-03-20
-featured: true
 ---
 
 I am an abolitionist because I want safety for every member of our community.
