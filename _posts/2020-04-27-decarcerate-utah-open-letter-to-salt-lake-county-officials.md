@@ -155,9 +155,13 @@ our community seeks include:
 
 This moment calls for bold strides to ensure families are able to protect
 themselves from both COVID-19 and state violence. It is the time for action.
-       
-       1. test
 
+1. list item
+
+    1. sub item
+    2. sub item 2
+        3. sub item 3
+        4. sub item 4
 
 We expect you to release a comprehensive county plan of action by Monday, May 4,
 2020 at 9:00 a.m. MST with a public report on progress by Friday, May 8, 2020
