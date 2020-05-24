@@ -234,7 +234,7 @@ footer {
     padding: 0 10px;
   }
   li {
-    a {
+    a, a:visited {
       color: $font-color;
     }
   }
