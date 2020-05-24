@@ -1,6 +1,8 @@
 ---
 layout: default
 title: news | decarcerate utah
+nav: true
+position: 1
 ---
 
 {% assign featured = site.posts | where: "featured", "true" %}

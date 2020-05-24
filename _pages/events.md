@@ -2,6 +2,7 @@
 layout: page
 title: events | decarcerate utah
 nav: true
+position: 2
 permalink: /events/
 ---
 

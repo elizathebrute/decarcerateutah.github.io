@@ -2,7 +2,8 @@
 	<div class="container">
 		<nav>
 			<ul>
-        {% for node in site.pages %} {% if node.nav %}
+        {% assign nav_nodes = site.pages | where: "nav", "true" | sort: "position" %}
+        {% for node in nav_nodes %}
           {% if node.url == page.url %}
             <li>
               <a href="{{ node.url | prepend: site.baseurl }}" class="active">
@@ -16,7 +17,7 @@
               </a>
             </li>
           {% endif %}
-        {% endif %} {% endfor %}
+        {% endfor %}
 			</ul>
 		</nav>
 	</div>

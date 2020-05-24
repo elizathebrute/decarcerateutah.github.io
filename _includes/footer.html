@@ -1,17 +1,32 @@
 <footer>
-  <p>
-    follow @decarcerateutah:
-  </p>
-  <ul>
-    <li>
-      <a href="http://facebook.com/decarcerateutah"><i class="fa fa-facebook"></i></a>
-    </li>
-    <li>
-      <a href="http://instagram.com/decarcerateutah"><i class="fa fa-instagram"></i></a>
-    </li>
-    <li>
-      <a href="http://twitter.com/decarcerateutah"><i class="fa fa-twitter"></i></a>
-    </li>
-  </ul>
+  <div class="navigation">
+    <ul>
+    {% assign footer_pages = site.pages | where: "footer", "true" | sort: "position" %}
+    {% for node in footer_pages %}
+      <li>
+        <a href="{{ node.url | prepend: site.baseurl }}" class="active">
+          {{ node.title | remove: ' | decarcerate utah' }}
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+
+  <div class="social">
+    <p>
+      follow @decarcerateutah:
+    </p>
+    <ul>
+      <li>
+        <a href="http://facebook.com/decarcerateutah"><i class="fa fa-facebook"></i></a>
+      </li>
+      <li>
+        <a href="http://instagram.com/decarcerateutah"><i class="fa fa-instagram"></i></a>
+      </li>
+      <li>
+        <a href="http://twitter.com/decarcerateutah"><i class="fa fa-twitter"></i></a>
+      </li>
+    </ul>
+  </div>
 </footer>
 

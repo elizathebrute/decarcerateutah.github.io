@@ -1,7 +1,8 @@
 ---
 layout: page
 title: about | decarcerate utah
-nav: true
+footer: true
+position: 1
 permalink: /about/
 ---
 
