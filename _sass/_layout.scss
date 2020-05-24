@@ -75,6 +75,10 @@ blockquote {
   font-style: italic;
 }
 
+article {
+  padding-bottom: 30px;
+}
+
 /* Classes */
 
 .post {
@@ -196,25 +200,20 @@ blockquote {
   }
 }
 
-.links {
-  ul {
-    list-style-type: none;
-    li {
-      margin: 15px 0;
-      a {
-        text-transform: uppercase;
-        text-decoration: none;
-        font-family: $links-page-font;
-        padding: 5px 10px;
-        background: $link-button-color;
-        color: $link-button-text-color;
-        border-radius: 5px;
-        &:hover, &:active {
-          background: $link-button-hover-color;
-          color: $link-button-hover-text-color;
-          text-decoration: none;
-        }
-      }
+.resources, .links {
+  text-align: center;
+  input {
+    margin: 10px 0;
+    text-transform: uppercase;
+    white-space: normal;
+    padding: 5px 10px;
+    border: 1px solid $link-button-color;
+    border-radius: 4px;
+    background: $link-button-color;
+    color: $link-button-text-color;
+    &:hover, &:active {
+      background: $link-button-hover-color;
+      color: $link-button-hover-text-color;
     }
   }
 }
