@@ -4,7 +4,7 @@
     {% assign footer_pages = site.pages | where: "footer", "true" | sort: "position" %}
     {% for node in footer_pages %}
       <li>
-        <a href="{{ node.url | prepend: site.baseurl }}" class="active">
+        <a href="{{ node.url | prepend: site.baseurl }}">
           {{ node.title | remove: ' | decarcerate utah' }}
         </a>
       </li>
@@ -14,7 +14,7 @@
 
   <div class="social">
     <p>
-      follow @decarcerateutah:
+      follow @decarcerateutah
     </p>
     <ul>
       <li>
