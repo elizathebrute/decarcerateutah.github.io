@@ -156,7 +156,6 @@ our community seeks include:
 This moment calls for bold strides to ensure families are able to protect
 themselves from both COVID-19 and state violence. It is the time for action.
 
-
 We expect you to release a comprehensive county plan of action by Monday, May 4,
 2020 at 9:00 a.m. MST with a public report on progress by Friday, May 8, 2020
 and every subsequent Monday until the COVID-19 state of emergency is lifted
