@@ -82,7 +82,6 @@ article {
 /* Classes */
 
 .post {
-  border-bottom: 1px dotted $post-delimiter-color;
   h1 a {
     font-family: $title-font;
     &:hover {
