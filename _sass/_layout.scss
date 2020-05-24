@@ -230,9 +230,6 @@ footer {
     padding: 0;
     list-style-type: none;
   }
-  li, i {
-    padding: 0 10px;
-  }
   li {
     a, a:visited {
       color: $font-color;
@@ -246,9 +243,13 @@ footer {
   }
   .navigation, .social {
     width: 50%;
+    li, i {
+      padding: 0;
+    }
   }
   .social li {
     display: inline;
+    padding: 0 10px;
   }
 }
 
