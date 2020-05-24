@@ -24,13 +24,25 @@ $header-image-offset: 20px;
 $header-image-padding-top: $nav-line-height + 2*$nav-padding-vert + $header-image-offset;
 
 $font: 'Fanwood Text', sans-serif;
-$heading-font: 'Philosopher', serif;
-$small-heading-font: 'Karla', sans-serif;
+
+$h1-font: 'Philosopher', serif;
+$h1-size: 24px;
+
+$h2-font: 'Philosopher', serif;
+$h2-size: 18px;
+
+$h3-font: 'Karla', sans-serif;
+$h3-size: 16px;
+
+$h4-font: 'Karla', sans-serif;
+$h4-size: 14px;
+
 $nav-font: 'Karla', serif;
 $link-font: 'Cardo', serif;
 $title-font: 'Gotu', serif;
 $date-font: 'Karla', serif;
 $links-page-font: 'Karla', serif;
+$paginator-font: 'Karla', serif;
 
 *,
 *::before,

@@ -1,7 +1,5 @@
-<div class="post-teaser">
-  <a href="{{ post.url | prepend: site.baseurl }}">
-    {% include post_image.html %}</a>
-  <p>{{ post.description }}</p>
-  <p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">...read more...</a></p>
-</div>
+<a href="{{ post.url | prepend: site.baseurl }}">
+  {% include post_image.html %}</a>
+<p>{{ post.description }}</p>
+<p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">...continue reading...</a></p>
 

@@ -16,19 +16,10 @@ main {
 
 /* General */
 
-h1, h2 {
-  font-family: $heading-font;
-  font-weight: 600;
-}
-
-h3, h4 {
-  font-family: $small-heading-font;
-  font-weight: 600;
-}
-
 h1, h2, h3, h4 {
   color: $heading-font-color;
   line-height: 1.2;
+  font-weight: 600;
   a, a:visited {
     text-decoration: none;
     color: $heading-font-color;
@@ -36,19 +27,23 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 24pt;
+  font-family: $h1-font;
+  font-size: $h1-size;
 }
 
 h2 {
-  font-size: 18pt;
+  font-family: $h2-font;
+  font-size: $h2-size;
 }
 
 h3 {
-  font-size: 16pt;
+  font-family: $h3-font;
+  font-size: $h2-size;
 }
 
 h4 {
-  font-size: 14pt;
+  font-family: $h4-font;
+  font-size: $h2-size;
 }
 
 a, a:visited {
@@ -125,7 +120,7 @@ blockquote {
     overflow: auto;
     a {
       color: $link-color;
-      font-family: $small-heading-font;
+      font-family: $h3-font;
     }
   }
 }
@@ -133,10 +128,6 @@ blockquote {
 .date {
   font-family: $date-font;
   font-weight: bold;
-}
-
-.post-excerpt {
-  padding-bottom: 10px;
 }
 
 .container {
@@ -152,11 +143,10 @@ blockquote {
 
 .posts {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
 }
 
-.post-teaser {
-  max-width: 400px;
+.post-teaser, .post-featured {
   padding: 20px 10px;
   a figure, p {
     padding: 0;
@@ -165,6 +155,10 @@ blockquote {
   .read-more {
     text-align: center;
   }
+}
+
+.post-featured {
+  border: 1px solid gray;
 }
 
 .all-posts {
@@ -182,13 +176,9 @@ blockquote {
     font-weight: 600;
   }
   a, span {
-    font-family: $small-heading-font;
+    font-family: $paginator-font;
     padding: 0 5px;
   }
-}
-
-.featured {
-  border: 2px solid black;
 }
 
 .video-container {
