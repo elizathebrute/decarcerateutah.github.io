@@ -7,6 +7,9 @@ permalink: /resources/
 ---
 
 <div class="resources">
+{% include button.html url="http://aworldwithoutpolice.org/" text="A world without police" %}
+
+<div class="resources">
 {% include button.html url="https://incite-national.org/incite-critical-resistance-statement/" text="INCITE!-Critical Resistance Statement on Gender Violence and the Prison Industrial Complex (2001)" %}
 
 {% include button.html url="https://transformharm.org/abolition/" text="what is abolition" %}
