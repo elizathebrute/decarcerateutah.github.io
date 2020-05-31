@@ -168,6 +168,8 @@ Decarcerate Utah
 <br />
 **In partnership with**:
 
+Democratic Socialists of Salt Lake City
+<br />
 Elders Rising
 <br />
 For The People – Salt Lake City
