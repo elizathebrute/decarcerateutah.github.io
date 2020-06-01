@@ -5,6 +5,8 @@ permalink: /links/
 ---
 
 <div class="links">
+  
+{% include button.html url="https://www.slc.gov/council/news/featured-news/virtually-attend-city-council-meetings-2/" text="Call the Salt Lake City Council and tell them to #DefundPolice" %}
 
 {% include button.html url="https://www.facebook.com/decarcerateutah" text="like us on facebook" %}
 
