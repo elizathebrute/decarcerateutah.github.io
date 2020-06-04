@@ -9,3 +9,5 @@ location: Mestizo Gallery 631 W. North Temple
 ---
 
 We will be discussing the links between the prison relocation and Utah's inland port to connect environmental justice with racial and community justice. 
+
+Co-hosted with the Utah Poor People's Campaign and PSL Salt Lake.
