@@ -13,7 +13,7 @@ position: 1
   {% assign featured_post = site.posts.first %}
 {% endif %}
 
-{% assign post = featured.first %}
+{% assign post = featured_post %}
 <div class="post-featured">
   {% include post_teaser.html %}
 </div>

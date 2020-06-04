@@ -4,7 +4,6 @@ title: Call to action in response to Covid-19
 description: Find out more about our campaign and sign our petition to release inmates being held in the Salt Lake County Jails. Resources for who to call, including scripts and email templates, are included with a form to fill out your responses.
 teaser_image: /images/teasers/call-to-action.jpg
 date: 2020-04-09
-featured: true
 ---
 
 {% include image.html
