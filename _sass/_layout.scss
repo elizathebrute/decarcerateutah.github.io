@@ -91,6 +91,7 @@ input {
   &:hover, &:active {
     background: $link-button-hover-color;
     color: $link-button-hover-text-color;
+    cursor: pointer;
   }
 }
 
