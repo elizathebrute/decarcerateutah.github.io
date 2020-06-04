@@ -1,32 +1,41 @@
 <footer>
-  <div class="navigation">
-    <ul>
-    {% assign footer_pages = site.pages | where: "footer", "true" | sort: "position" %}
-    {% for node in footer_pages %}
-      <li>
-        <a href="{{ node.url | prepend: site.baseurl }}">
-          {{ node.title | remove: ' | decarcerate utah' }}
-        </a>
-      </li>
-    {% endfor %}
-    </ul>
+  <div class="donate">
+    {% include button.html
+      url="https://chuffed.org/project/help-us-publish-decarcerate-utahs-second-issue"
+      text="Click here to donate"
+    %}
   </div>
 
-  <div class="social">
-    <p>
-      follow @decarcerateutah
-    </p>
-    <ul>
-      <li>
-        <a href="http://facebook.com/decarcerateutah"><i class="fa fa-facebook"></i></a>
-      </li>
-      <li>
-        <a href="http://instagram.com/decarcerateutah"><i class="fa fa-instagram"></i></a>
-      </li>
-      <li>
-        <a href="http://twitter.com/decarcerateutah"><i class="fa fa-twitter"></i></a>
-      </li>
-    </ul>
+  <div class="main">
+    <div class="navigation">
+      <ul>
+      {% assign footer_pages = site.pages | where: "footer", "true" | sort: "position" %}
+      {% for node in footer_pages %}
+        <li>
+          <a href="{{ node.url | prepend: site.baseurl }}">
+            {{ node.title | remove: ' | decarcerate utah' }}
+          </a>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+
+    <div class="social">
+      <p>
+        @decarcerateutah
+      </p>
+      <ul>
+        <li>
+          <a href="http://facebook.com/decarcerateutah"><i class="fa fa-facebook"></i></a>
+        </li>
+        <li>
+          <a href="http://instagram.com/decarcerateutah"><i class="fa fa-instagram"></i></a>
+        </li>
+        <li>
+          <a href="http://twitter.com/decarcerateutah"><i class="fa fa-twitter"></i></a>
+        </li>
+      </ul>
+    </div>
   </div>
 </footer>
 

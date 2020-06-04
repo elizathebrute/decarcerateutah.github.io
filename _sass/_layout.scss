@@ -79,6 +79,21 @@ article {
   padding-bottom: 30px;
 }
 
+input {
+  text-transform: uppercase;
+  white-space: normal;
+  padding: 5px 10px;
+  border: 1px solid $link-button-color;
+  border-radius: 4px;
+  background: $link-button-color;
+  color: $link-button-text-color;
+  &:hover, &:active {
+    background: $link-button-hover-color;
+    color: $link-button-hover-text-color;
+  }
+}
+
+
 /* Classes */
 
 .post {
@@ -203,17 +218,6 @@ article {
   text-align: center;
   input {
     margin: 10px 0;
-    text-transform: uppercase;
-    white-space: normal;
-    padding: 5px 10px;
-    border: 1px solid $link-button-color;
-    border-radius: 4px;
-    background: $link-button-color;
-    color: $link-button-text-color;
-    &:hover, &:active {
-      background: $link-button-hover-color;
-      color: $link-button-hover-text-color;
-    }
   }
 }
 
@@ -223,31 +227,33 @@ footer {
   border-top: 1px solid black;
   padding-top: 20px;
   text-align: center;
-  display: flex;
-  ul {
-    padding: 0;
-    list-style-type: none;
-  }
-  li {
-    a, a:visited {
-      color: $font-color;
+  .main {
+    display: flex;
+    ul {
+      padding: 0;
+      list-style-type: none;
     }
-  }
-  i {
-    font-size: 1.25em !important;
-  }
-  p {
-    padding: 0;
-  }
-  .navigation, .social {
-    width: 50%;
-    li, i {
+    li {
+      a, a:visited {
+        color: $font-color;
+      }
+    }
+    i {
+      font-size: 1.25em !important;
+    }
+    p {
       padding: 0;
     }
-  }
-  .social li {
-    display: inline;
-    padding: 0 10px;
+    .navigation, .social {
+      width: 50%;
+      li, i {
+        padding: 0;
+      }
+    }
+    .social li {
+      display: inline;
+      padding: 0 10px;
+    }
   }
 }
 
