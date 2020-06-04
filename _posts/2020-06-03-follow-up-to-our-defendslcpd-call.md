@@ -2,7 +2,7 @@
 layout: post
 title: Follow-up to our &#35;DefundSLCPD call
 description: Thank you for calling, e-mailing and participating in the public hearing on the city council budget. It was inspiring to hear a resounding demand to &#35;DefundSLCPD with folks sharing their personal stories and ideas to transform our beloved city. We came together with a unified message of anti-racism, and our voices were amplified&#58; over 200 comments were recorded over the course of a six hour meeting! Mayor Mendenhall claims it may have been the longest City Council work session in Utah history.
-teaser_image: /images/teasers/defund-the-police-crayon.png
+teaser_image: /images/teasers/blog image posts-07.jpg
 date: 2020-06-03
 ---
 
