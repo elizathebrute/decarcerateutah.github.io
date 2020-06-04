@@ -87,6 +87,7 @@ input {
   border-radius: 4px;
   background: $link-button-color;
   color: $link-button-text-color;
+  max-width: 400px;
   &:hover, &:active {
     background: $link-button-hover-color;
     color: $link-button-hover-text-color;
