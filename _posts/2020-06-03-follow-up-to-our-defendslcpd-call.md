@@ -89,6 +89,7 @@ all we can to create a city budget that benefits everyone, and begin to
 
   - [RSVP to our Facebook event](https://www.facebook.com/events/383971579216164/)
     to build traction + invite friends!
+    
   - [Bookmark our google doc](https://docs.google.com/document/d/1JepCoYC4gyKRDVL176djGnzGgTLEDi4h_d9yNikx6jE/edit) to have an up-to-date resource with links, dates, scripts, and our demands.
 
 Mayor Mendenhall still refuses to listen to her many constituents who rose up
