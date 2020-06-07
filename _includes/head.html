@@ -3,6 +3,18 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+  {% if page.teaser_image %}
+    {% assign og_image_filename = page.teaser_image %}
+    {% assign og_type = 'article' %}
+  {% else %}
+    {% assign og_image_filename = '/images/decarcerate-logo.png' %}
+    {% assign og_type = 'website' %}
+  {% endif %}
+
+  <meta property="og:type" content="{{ og_type }}" />
+  <meta property="og:image" content="{{ og_image_filename | prepend: site.baseurl }}" />
+  <meta property="og:image:alt" content="decarcerate utah" />
+
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
