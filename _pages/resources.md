@@ -7,6 +7,9 @@ permalink: /resources/
 ---
 
 <div class="resources">
+{% include button.html url="https://www.8toabolition.com/" text="8 to Abolition" %}
+  
+<div class="resources">
 {% include button.html url="http://aworldwithoutpolice.org/" text="A world without police" %}
 
 <div class="resources">
