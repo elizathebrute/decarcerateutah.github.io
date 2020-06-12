@@ -2,18 +2,21 @@
 layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+>
   <channel>
     <title>{{ site.title }}</title>
     <description>{{ site.description }}</description>
     <link>{{ site.url }}</link>
+    <atom:link href="{{ page.path | prepend: site.url}}" rel="self" type="application/rss+xml" />
     {% for node in site.posts limit: 10 %}
       <item>
         <title>{{ node.title | xml_escape }}</title>
         <description>{{ node.description | xml_escape }}</description>
-        <pubDate>{{ node.date | date_to_xmlschema }}</pubDate>
+        <pubDate>{{ node.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ node.url | prepend: site.url }}</link>
-        <guid isPermalink="true">{{ node.url | prepend: site.url }}</guid>
+        <guid>{{ node.url | prepend: site.url }}</guid>
       </item>
     {% endfor %}
   </channel>
