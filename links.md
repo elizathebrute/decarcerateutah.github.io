@@ -6,6 +6,9 @@ permalink: /links/
 
 <div class="links">
   
+  {% include button.html url="https://www.change.org/p/mayor-erin-mendenhall-defund-slcpd-reinvest-in-communities" text="Sign the petition: Defund SLCPD! Reinvest in Communities!
+" %}
+  
   {% include button.html url="https://docs.google.com/document/d/1JepCoYC4gyKRDVL176djGnzGgTLEDi4h_d9yNikx6jE/edit?usp=sharing" text="Scripts and details to call or email Salt Lake City Council to #DefundSLCPD" %}
   
 {% include button.html url="https://www.slc.gov/council/news/featured-news/virtually-attend-city-council-meetings-2/" text="Call the Salt Lake City Council and tell them to #DefundPolice" %}
