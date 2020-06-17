@@ -5,6 +5,8 @@ nav: true
 position: 3
 permalink: /resources/
 ---
+<div class="resources">
+{% include button.html url="https://www.aaihs.org/prison-abolition-syllabus/" text="14 week prison abolition syllabus" %}
 
 <div class="resources">
 {% include button.html url="https://www.8toabolition.com/" text="8 to Abolition" %}
