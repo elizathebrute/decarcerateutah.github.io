@@ -224,7 +224,7 @@ input {
 }
 
 .donate {
-  border: 2px solid $link-button-color;
+  border-radius: 0;
   background: $yellow;
   color: $black;
 }
