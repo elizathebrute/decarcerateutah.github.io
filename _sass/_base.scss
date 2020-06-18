@@ -1,17 +1,25 @@
+$white: #ffffff;
+$black: #000000;
+$blue: #1d60a0;
+$gray: #cccccc;
+$yellow: #f4f923;
+$light-gray: #f3f3f3;
+$dark-gray: #444444;
+
 $content-width: 800px;
-$body-background-color: #f3f3f3;
-$main-background-color: #ffffff;
+$body-background-color: $light-gray;
+$main-background-color: $white;
 
-$font-color: #000000;
-$link-color: #1d60a0;
-$heading-font-color: #000000;
+$font-color: $black;
+$link-color: $blue;
+$heading-font-color: $black;
 
-$link-button-color: #000000;
-$link-button-text-color: #ffffff;
-$link-button-hover-color: #444444;
-$link-button-hover-text-color: #ffffff;
+$link-button-color: $black;
+$link-button-text-color: $white;
+$link-button-hover-color: $dark-gray;
+$link-button-hover-text-color: $white;
 
-$post-delimiter-color: #cccccc;
+$post-delimiter-color: $gray;
 
 $nav-background-color: $main-background-color;
 $nav-text-color: $font-color;

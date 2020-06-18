@@ -87,6 +87,7 @@ input {
   border-radius: 4px;
   background: $link-button-color;
   color: $link-button-text-color;
+  font-weight: 600;
   max-width: 400px;
   &:hover, &:active {
     background: $link-button-hover-color;
@@ -94,7 +95,6 @@ input {
     cursor: pointer;
   }
 }
-
 
 /* Classes */
 
@@ -221,6 +221,12 @@ input {
   input {
     margin: 10px 0;
   }
+}
+
+.donate {
+  border: 2px solid $link-button-color;
+  background: $yellow;
+  color: $black;
 }
 
 /* Footer */
