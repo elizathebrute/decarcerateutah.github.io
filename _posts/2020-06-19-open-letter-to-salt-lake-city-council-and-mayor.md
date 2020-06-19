@@ -9,7 +9,6 @@ date: 2020-06-19
   filename="/images/open letter to salt lake city council and the mayor.jpg"
   caption="Image of the protests in Salt Lake City during the Defund SLCPD campaign. Photo by Trevor Wheelwright."
 %}
-**June 19, 2020**
 
 Dear Mayor Erin Mendenhall and Salt Lake City Council,
 
