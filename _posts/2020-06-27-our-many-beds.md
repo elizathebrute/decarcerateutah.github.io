@@ -36,12 +36,12 @@ But, with the construction of a prison to house more prisoners looming, it seems
 *Erin Moore is an SLC writer with an interest in culture and media, and edits the music section at Salt Lake City Weekly. Follow her on twitter [@errrands_](twitter.com/@errands_) or email at [erin.moore313@gmail.com.](mailto:erin.moore313@gmail.com)*
 
 **Bibliography**
-1. “Justice Reinvestment Initiative (JRI).” CCJJ: Justice Reinvestment Initiative, State of Utah, 2019, [justice.utah.gov/JRI/default.html]()
-2. Deseret News, Lynne Arave. “Utah State Prison History: Favored Penal Sites Always 'Way out of Town'.” Deseret News, Deseret Management Corporation, 16 Apr. 2018, [www.deseret.com/2018/4/16/20643412/utah-state-prison-history-favored-penal-sites-always-way-out-of-town#the-utah-state-prison-and-surrounding-development-is-shown-near-the-point-of-the-mountain-on-tuesday-nov-28-2017]()
+1. “Justice Reinvestment Initiative (JRI).” CCJJ: Justice Reinvestment Initiative, State of Utah, 2019, [https://justice.utah.gov/JRI/default.html](https://justice.utah.gov/JRI/default.html)
+2. Deseret News, Lynne Arave. “Utah State Prison History: Favored Penal Sites Always 'Way out of Town'.” Deseret News, Deseret Management Corporation, 16 Apr. 2018, [https://www.deseret.com/2018/4/16/20643412/utah-state-prison-history-favored-penal-sites-always-way-out-of-town](https://www.deseret.com/2018/4/16/20643412/utah-state-prison-history-favored-penal-sites-always-way-out-of-town)
 3. Hill, James B. “History of Utah State Prison: 1850–1952.” Brigham Young University, BYU Scholars Archive, 1952, p. 46.
 4. Hill, James B. “History of Utah State Prison: 1850–1952.” Brigham Young University, BYU Scholars Archive, 1952, p. 4.
 5. Hill, James B. “History of Utah State Prison: 1850–1952.” Brigham Young University, BYU Scholars Archive, 1952, p. 5.
 6. Lundberg, Horace W. “Post Riot Changes in Utah State Prison” University of Utah, University of Utah, 1954, p. 32.
-7. Carlisle, Nate. “Utah's Prison Population Is Rising Faster than Any State but One, despite Many Reforms.” The Salt Lake Tribune, The Salt Lake Tribune, 28 May 2019, [www.sltrib.com/news/politics/2019/05/28/all-utahs-justice/]()
-8. Reavy, Pat, and Katie McKellar. “The Jail Crisis: How Did We Get Here?” Deseret News, Deseret News, 12 May 2017, [www.deseret.com/2017/5/12/20612335/the-jail-crisis-how-did-we-get-here#the-oxbow-jail-pictured-on-nov-11-2008-has-sat-mostly-mothballed-ever-since-the-2000-plus-more-secure-salt-lake-county-jail-opened-in-2000-but-now-county-officials-are-looking-at-reopening-the-facility-to-deal-with-overcrowding-but-it-comes-with-a-9-million-price-tag-currently-the-partially-empty-jail-houses-184-inmates-it-has-room-for-552]()
+7. Carlisle, Nate. “Utah's Prison Population Is Rising Faster than Any State but One, despite Many Reforms.” The Salt Lake Tribune, 28 May 2019, [https://www.sltrib.com/news/politics/2019/05/28/all-utahs-justice](https://www.sltrib.com/news/politics/2019/05/28/all-utahs-justice)
+8. Reavy, Pat, and Katie McKellar. “The Jail Crisis: How Did We Get Here?” Deseret News, 12 May 2017, [https://www.deseret.com/2017/5/12/20612335/the-jail-crisis-how-did-we-get-here](https://www.deseret.com/2017/5/12/20612335/the-jail-crisis-how-did-we-get-here)
 {: .bibliography}
