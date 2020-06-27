@@ -96,6 +96,10 @@ input {
   }
 }
 
+figcaption {
+  font-size: $caption-font-size;
+}
+
 /* Classes */
 
 .bibliography {
