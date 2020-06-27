@@ -3,7 +3,7 @@ layout: post
 title: Our Many Beds: A Brief Inquiry into Utah’s Prison History
 description: 
 teaser_image: /images/teasers/our many beds history of utah prisons.jpg
-date: 2020-06-29
+date: 2020-06-27
 ---
 {% include image.html
   filename="/images/9- Prison_Inmates_Transfer_Utah_State_to_County_Jail_Shot_1.jpg"
@@ -33,7 +33,7 @@ This, on top of the increase of homeless people on the streets in the last few y
 
 But, with the construction of a prison to house more prisoners looming, it seems that this cycle is just bound to continue, despite the fact that it also seems that the larger our prisons get, the more compelling it is to fill them, for lesser and lesser offenses. The fact of the matter is that addicts, for one, don’t need to be criminalized and jailed or imprisoned, and they, just like the other vulnerable populations mentioned above, would benefit more from not being dragged into the jail and slapped with a misdemeanor offense at all. The answer is not just “treatment programs and jail,” but rather it is to throw away the carceral response to crime entirely, to radically rethink why certain actions warrant stripping people of their basic freedoms. If we–citizens and government officials alike–truly cared about the people who are constantly moving through our cyclical prison systems and considered them as valuable parts of society just like anyone else, we would focus on rehabilitation first, instead of trying half-heartedly to fit it into this model of imprisonment. 
 
-**Sources**
+**Bibliography**
 1. “Justice Reinvestment Initiative (JRI).” CCJJ: Justice Reinvestment Initiative, State of Utah, 2019, justice.utah.gov/JRI/default.html.
 2. Deseret News, Lynne Arave. “Utah State Prison History: Favored Penal Sites Always 'Way out of Town'.” Deseret News, Deseret Management Corporation, 16 Apr. 2018, www.deseret.com/2018/4/16/20643412/utah-state-prison-history-favored-penal-sites-always-way-out-of-town#the-utah-state-prison-and-surrounding-development-is-shown-near-the-point-of-the-mountain-on-tuesday-nov-28-2017.
 3. Hill, James B. “History of Utah State Prison: 1850–1952.” Brigham Young University, BYU Scholars Archive, 1952, p. 46.
