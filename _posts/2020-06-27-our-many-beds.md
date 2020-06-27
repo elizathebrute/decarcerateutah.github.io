@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Many Beds: A Brief Inquiry into Utah’s Prison History
-description: 
+description: Utah’s prison history is one made up of larger and larger prisons being constructed with more and more beds, which are then filled up with more criminals for lesser and lesser crimes. Politicians and officials today are now forced to insist that the goal of incarceration practices in Utah isn’t to “warehouse” people, but when at the very beginning our first state prison was one located far, far from the rest of the community, one has to wonder how true that is. Like other parts of the country, Utah is caught up in a sort of juggling act, prosecuting people, jailing them, releasing them but then doing the whole thing over again when those individuals eventually end up committing the same “crimes” over again.
 teaser_image: /images/teasers/our many beds history of utah prisons.jpg
 date: 2020-06-27
 ---
