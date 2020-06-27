@@ -98,6 +98,10 @@ input {
 
 /* Classes */
 
+.bibliography {
+  font-size: $bibliography-font-size;
+}
+
 .post {
   h1 a {
     font-family: $title-font;

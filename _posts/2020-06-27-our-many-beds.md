@@ -42,3 +42,4 @@ But, with the construction of a prison to house more prisoners looming, it seems
 6. Lundberg, Horace W. “Post Riot Changes in Utah State Prison” University of Utah, University of Utah, 1954, p. 32.
 7. Carlisle, Nate. “Utah's Prison Population Is Rising Faster than Any State but One, despite Many Reforms.” The Salt Lake Tribune, The Salt Lake Tribune, 28 May 2019, www.sltrib.com/news/politics/2019/05/28/all-utahs-justice/.
 8. Reavy, Pat, and Katie McKellar. “The Jail Crisis: How Did We Get Here?” Deseret News, Deseret News, 12 May 2017, www.deseret.com/2017/5/12/20612335/the-jail-crisis-how-did-we-get-here#the-oxbow-jail-pictured-on-nov-11-2008-has-sat-mostly-mothballed-ever-since-the-2000-plus-more-secure-salt-lake-county-jail-opened-in-2000-but-now-county-officials-are-looking-at-reopening-the-facility-to-deal-with-overcrowding-but-it-comes-with-a-9-million-price-tag-currently-the-partially-empty-jail-houses-184-inmates-it-has-room-for-552.
+{: .bibliography}
