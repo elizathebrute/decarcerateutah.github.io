@@ -51,5 +51,4 @@ But, with the construction of a prison to house more prisoners looming, it seems
 
 {% include image.html
   filename="/images/call for submissions-01.jpg"
-  caption="Call for submissions! Email your work to decarcerateutah@gmail.com"
 %}
