@@ -6,6 +6,8 @@ permalink: /links/
 
 <div class="links">
   
+  {% include button.html url="https://www.decarcerateutah.org/2020/06/27/our-many-beds.html" text="Read Our Many Beds: A Brief Inquiry into Utah's Prison History" %} 
+ 
  {% include button.html url="https://www.decarcerateutah.org/2020/06/19/open-letter-to-salt-lake-city-council-and-mayor.html" text="Open Letter to the Salt Lake City Council and Mayor
 " %} 
  
