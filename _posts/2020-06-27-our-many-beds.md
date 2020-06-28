@@ -10,7 +10,7 @@ date: 2020-06-27
   caption="Image of the prison guards in Draper. Sourced from the Marriott Library archive from the University of Utah"
 %}
 
-**Note: this is the first of a series of articles from our second publication. Feel free to download it and print it out (instructions on final page) for your personal use by [clicking here] (https://www.dropbox.com/s/72nxqywvpe06tut/Decarcerate%20Utah%20Issue%202%20-%20Spring%202020.pdf?dl=0)**
+*Note: this is the first of a series of articles from our second publication. Feel free to download it and print it out (instructions on final page) for your personal use by [clicking here](https://www.dropbox.com/s/72nxqywvpe06tut/Decarcerate%20Utah%20Issue%202%20-%20Spring%202020.pdf?dl=0)*
 
 Utah’s prison history is one made up of larger and larger prisons being constructed with more and more beds, which are then filled up with more criminals for lesser and lesser crimes. Politicians and officials today are now forced to insist that the goal of incarceration practices in Utah isn’t to “warehouse” people, but when at the very beginning our first state prison was one located far, far from the rest of the community, one has to wonder how true that is. Like other parts of the country, Utah is caught up in a sort of juggling act, prosecuting people, jailing them, releasing them but then doing the whole thing over again when those individuals eventually end up committing the same “crimes” over again. Despite the implementation of the Justice Reinvestment Initiative in 2015–whose aims are to restructure bed usage in prisons, probation and parole supervision and to support re-entry and treatment services that are matched to the needs of those moving in and out of the system–and even Governor Gary Herbert himself recognizing that the prison system in Utah as it exists is basically a revolving door of recidivism, our imprisonment rates continue to grow (1). It’s my intent to outline briefly how we got here,
 from the time of Utah’s first prison to the one we have now in Draper, along with the plans for the new one that looms dark over us, with even more beds to fill.
@@ -50,6 +50,6 @@ But, with the construction of a prison to house more prisoners looming, it seems
 
 
 {% include image.html
-  filename="/images/call for submissions.jpg"
+  filename="/images/call for submissions-01.jpg"
   caption="Call for submissions! Email your work to decarcerateutah@gmail.com"
 %}
