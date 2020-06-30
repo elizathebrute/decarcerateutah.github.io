@@ -2,7 +2,7 @@
 layout: event
 event: true
 permalink: /events/:basename
-title: Uplift Climate and Decarcerate Utah Webinar Series: What Does Abolition Look Like? Climate Justice Perspecitves on a Free World
+title: "Uplift Climate and Decarcerate Utah Webinar Series: What Does Abolition Look Like? Climate Justice Perspecitves on a Free World"
 date: 2020-07-04
 time: 3:00pm MST
 location: Online
@@ -10,6 +10,7 @@ location: Online
 
 Four part webinar series hosted by Decarcerate Utah and Uplift, dissecting the intersections of climate justice and prison abolition.
 [Register online](bit.ly/upliftabolition)
+
 Part one (June 13): Abolish ICE Means Abolish Capitalism
 (sign up is separate, please visit bit.ly/AbolishICEWebinar)
 
