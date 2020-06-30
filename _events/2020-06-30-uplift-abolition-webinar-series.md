@@ -12,7 +12,6 @@ Four part webinar series hosted by Decarcerate Utah and Uplift, dissecting the i
 [Register online](https://bit.ly/upliftabolition)
 
 Part one (June 13): Abolish ICE Means Abolish Capitalism
-(sign up is separate, please visit [bit.ly/AbolishICEWebinar](https://bit.ly/AbolishICEWebinar))
 
 Part two (June 20): The State Prison Relocation and Utah's Inland Port. [Watch this session on YouTube](https://youtu.be/lHPbVa3nJkk)
 
