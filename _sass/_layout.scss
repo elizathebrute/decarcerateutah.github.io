@@ -115,16 +115,8 @@ figcaption {
   }
 }
 
-.empty-top {
-  border-bottom: 5px solid black;
-}
-.empty-bottom {
-  border-bottom: 5px solid black;
-}
-
 .event {
-  border-top: 5px solid black;
-  border-bottom: 5px solid black;
+  border-top: 10px solid black;
   padding-bottom: 20px;
   h1 {
     margin: 20px 0;
@@ -141,8 +133,7 @@ figcaption {
   text-align: center;
   text-transform: uppercase;
   h3 {
-    border-top: 5px solid black;
-    border-bottom: 5px solid black;
+    border-top: 10px solid black;
     margin: 0;
     padding: 15pt 0;
     overflow: auto;
@@ -235,6 +226,10 @@ figcaption {
   border-radius: 0;
   background: $yellow;
   color: $black;
+}
+
+.first-entry {
+  border-top: none !important;
 }
 
 /* Footer */

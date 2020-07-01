@@ -7,8 +7,7 @@ permalink: /contact/
 ---
 
 <div class="contact">
-  <div class="empty-top"></div>
-  <h3>
+  <h3 class="first-entry">
     Sign up for our
     <a href="http://tinyletter.com/decarcerateutah">newsletter</a>
   </h3>
@@ -24,6 +23,5 @@ permalink: /contact/
     Fill out a form</a>
     to get involved
   </h3>
-  <div class="empty-bottom"></div>
 </div>
 

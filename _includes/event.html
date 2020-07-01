@@ -1,4 +1,10 @@
-<article class="event">
+{% if include.is_first %}
+  {% assign class = "first-entry event" %}
+{% else %}
+  {% assign class = "event" %}
+{% endif %}
+
+<article class="{{ class }}">
   {% if node %}
     {% assign local = node %}
   {% else %}

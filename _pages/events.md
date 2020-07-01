@@ -8,10 +8,12 @@ permalink: /events/
 
 {% assign events = site.pages | where: "event", "true" | reverse %}
 <div class="events">
-  <div class="empty-top"></div>
-  {% for node in events %}
+  {% assign node = events | first %}
+  {% assign other_events = events | shift %}
+
+  {% include event.html is_first="true" %}
+
+  {% for node in other_events %}
     {% include event.html %}
   {% endfor %}
-  <div class="empty-bottom"></div>
 </div>
-
