@@ -8,7 +8,7 @@ permalink: /about/
 
 Decarcerate Utah is a prison abolitionist group whose primary goal is to shift
 the discourse on incarceration. We recognize the violence conducted by the U.S.
-government against indigenous people, including unjust imprisonments, and we
+government against Indigenous people, including unjust imprisonments, and we
 respectfully acknowledge the Utes, Goshutes, Paiutes, Shoshone, and Navajo, on
 whose ancestral lands we conduct our campaigns.
 
