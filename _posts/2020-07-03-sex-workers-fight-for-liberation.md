@@ -1,8 +1,10 @@
+---
 layout: post
 title: "Imprisoned for Working: Sex Workers Fight for Liberation"
 description: According to a 2019 report, “Human Rights Watch has consistently found in research across various countries that criminalization makes sex workers more vulnerable to violence, including rape, assault, and murder, by attackers who see sex workers as easy targets because they are stigmatized.” Unsurprisingly, police are often the biggest perpatrators against the sex work community. Moreover, as the World Aids Campaign found, sex workers are at greater risk of experiencing health disparities due to criminalization. These risks are exponentially multiplied for trans sex workers, and sex workers of color. 
 teaser_image: /images/teasers/sex workers fight for liberation.jpg
 date: 2020-07-03
+---
 
 {% include image.html
   filename="/images/2- Decrim Sex work.jpeg"
