@@ -29,8 +29,8 @@ Nobody needs a license to be a coal miner, or a retail manager, or a software en
 
 Decriminalization is the only way forward to lift sex workers out of harm’s way. Decriminalization is liberation.
 
-*Kyli Rodriguez-Cayro is a mental health educator, sex workers rights activist, and journalist with bylines in Huffington Post, Allure, Bustle, and more. Through her work, she co-founded the Youth of Utah Advocacy Coalition, as well as the Sex Workers Outreach Project Salt Lake City Chapter. You can follow her on Instagram at @kyli_rc
+*Kyli Rodriguez-Cayro is a mental health educator, sex workers rights activist, and journalist with bylines in Huffington Post, Allure, Bustle, and more. Through her work, she co-founded the Youth of Utah Advocacy Coalition, as well as the Sex Workers Outreach Project Salt Lake City Chapter. You can follow her on Instagram at @kyli_rc*
 
-Heidi Pomerleau is an advocate and activist in Salt Lake City. She loves mountains, knitting, and sex education. She is a committee member for the Sex Workers Outreach Project SLC.
+*Heidi Pomerleau is an advocate and activist in Salt Lake City. She loves mountains, knitting, and sex education. She is a committee member for the Sex Workers Outreach Project SLC.*
 
-Havoq Luscivia is an autistic stripper, burlesque dancer, and cabaret producer based in Salt Lake City. They are a fierce advocate for sex worker rights, disability access, and community building activism.*
+*Havoq Luscivia is an autistic stripper, burlesque dancer, and cabaret producer based in Salt Lake City. They are a fierce advocate for sex worker rights, disability access, and community building activism.*
