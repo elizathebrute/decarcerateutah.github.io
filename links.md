@@ -5,6 +5,12 @@ permalink: /links/
 ---
 
 <div class="links">
+
+{% include button.html
+  url="https://docs.google.com/document/d/1vk2CEPqAR9rTM2w32aLij9XZfRyroIuBc_YoDg2zyaM/edit?usp=sharing"
+  text="Scripts to Utah state officials to free vulnerable people from the Utah State Prison"
+%} 
+
 {% include button.html
   url="https://www.decarcerateutah.org/2020/07/03/sex-workers-fight-for-liberation.html"
   text="Read Imprisoned for Working: Sex Workers Fight for Liberation"
