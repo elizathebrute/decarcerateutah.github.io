@@ -11,6 +11,8 @@ date: 2020-07-03
   caption="'Decrim Sex Work' collage by Kyli Rodriguez Cayro"
 %}
 
+*Note: this is featured in our second publication. Feel free to download it and print it out (instructions on final page) for your personal use by [clicking here](https://www.dropbox.com/s/72nxqywvpe06tut/Decarcerate%20Utah%20Issue%202%20-%20Spring%202020.pdf?dl=0)*
+
 What thoughts come to mind when you think about sex work? It’s not surprising if a stream of shaming and derogatory narratives spring to mind. But why? A construction worker willingly sells their body to be in the profession. So does an adult, consensual sex worker. Sex work is work, not a crime. It still is in most places, though, and it’s making use of jails as moral punishment.
 
 Sex work is like any other business transaction. There is a proprietor and a client. Both agree on a cost for services rendered. There is, and always has been a necessary place for this work in society. Instead of arrests, assaults, the trauma and life disruption of jails and the court system, which further marginalize sex workers, it’s time to provide workplace protections, harm reduction, and a restoration of autonomy.
@@ -34,3 +36,7 @@ Decriminalization is the only way forward to lift sex workers out of harm’s wa
 *Heidi Pomerleau is an advocate and activist in Salt Lake City. She loves mountains, knitting, and sex education. She is a committee member for the Sex Workers Outreach Project SLC.*
 
 *Havoq Luscivia is an autistic stripper, burlesque dancer, and cabaret producer based in Salt Lake City. They are a fierce advocate for sex worker rights, disability access, and community building activism.*
+
+{% include image.html
+  filename="/images/call for submissions-01.jpg"
+%}
