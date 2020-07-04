@@ -5,6 +5,10 @@ permalink: /links/
 ---
 
 <div class="links">
+{% include button.html
+  url="https://www.decarcerateutah.org/2020/07/03/sex-workers-fight-for-liberation.html"
+  text="Read Imprisoned for Working: Sex Workers Fight for Liberation"
+%}
 
 {% include button.html
   url="https://www.decarcerateutah.org/2020/06/27/our-many-beds.html"
