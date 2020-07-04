@@ -11,7 +11,7 @@ date: 2020-07-03
   caption="'Decrim Sex Work' collage by Kyli Rodriguez Cayro"
 %}
 
-*Note: this is featured in our second publication. Feel free to download it and print it out (instructions on final page) for your personal use by [clicking here](https://www.dropbox.com/s/72nxqywvpe06tut/Decarcerate%20Utah%20Issue%202%20-%20Spring%202020.pdf?dl=0)*
+*Note: this is featured in our second publication. Feel free to download it and print it out (instructions on final page) for your personal use by [clicking here](https://www.dropbox.com/s/7vk9sz4es8khd2s/Decarcerate%20Utah%20Issue%202%20-%20Spring%202020.pdf?dl=0)*
 
 What thoughts come to mind when you think about sex work? It’s not surprising if a stream of shaming and derogatory narratives spring to mind. But why? A construction worker willingly sells their body to be in the profession. So does an adult, consensual sex worker. Sex work is work, not a crime. It still is in most places, though, and it’s making use of jails as moral punishment.
 
