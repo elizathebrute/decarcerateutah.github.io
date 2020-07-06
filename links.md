@@ -7,6 +7,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://www.ksl.com/article/46773392/surge-in-confirmed-jail-cases-drives-calls-for-release-of-more-utah-inmates"
+  text="KSL: Surge in confirmed jail cases drives calls for release of more Utah inmates"
+%} 
+
+{% include button.html
   url="https://docs.google.com/document/d/1vk2CEPqAR9rTM2w32aLij9XZfRyroIuBc_YoDg2zyaM/edit?usp=sharing"
   text="Scripts to Utah state officials to free vulnerable people from the Utah State Prison"
 %} 
