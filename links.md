@@ -7,6 +7,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://www.change.org/p/utah-19-year-old-tested-positive-with-covid-19-he-needs-to-be-release"
+  text="Sign the petition: release Raul and Gerardo from Weber County Jail"
+%} 
+
+{% include button.html
   url="https://www.ksl.com/article/46773392/surge-in-confirmed-jail-cases-drives-calls-for-release-of-more-utah-inmates"
   text="KSL: Surge in confirmed jail cases drives calls for release of more Utah inmates"
 %} 
