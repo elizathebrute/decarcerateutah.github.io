@@ -7,6 +7,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://us02web.zoom.us/webinar/register/WN_geZuLSBLQ4-52h_NvKJ09Q"
+  text="Register for tomorrow's workshop with Uplift Climate"
+%} 
+
+{% include button.html
   url="https://www.change.org/p/utah-19-year-old-tested-positive-with-covid-19-he-needs-to-be-release"
   text="Sign the petition: release Raul and Gerardo from Weber County Jail"
 %} 
