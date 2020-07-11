@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "Alternatives to Operation Rio Grande"
@@ -7,6 +8,8 @@ date: 2020-07-11
 ---
 
 *Note: this is featured in our second publication. Feel free to download it and print it out for your personal use by [clicking here](https://www.dropbox.com/s/7vk9sz4es8khd2s/Decarcerate%20Utah%20Issue%202%20-%20Spring%202020.pdf?dl=0) (instructions on final page)*
+
+Written in the fall of 2017.
 
 It's not that hard to think of ideas to improve the Rio Grande situation. What is happening is politicians using community prejudice and fear to their advantage. Operation Rio Grande does not care about making Rio Grande safer for the homeless, they care about making it more palatable for business owners. That's why their "solution" involves brute force, violent power, and fast action. They want the homeless out of sight and out of mind. They aren't working on anything towards improving services and actually helping people (just look at the way they talk about the phase 2 and phase 3: they never account for how they will provide for the needs of 600 people arrested. They have yet to find treatment and services for so many people, but had no problem arresting all of them in a matter of days).
 
@@ -23,11 +26,11 @@ Here are some of my ideas:
 4. Incentivize landlords to decrease their rent rates. Tax breaks for those not hiking their rents up. Assistance with maintenance and other costs for those with affordable rent.
 5. Micro-loans for emergency situations. Most people lose their homes because of a medical emergency, a lost job, a broken vehicle, or a family member leaving (because of break-ups, jail time, death, etc) so the rent can't be paid in full. Most of us live close to the edge, short-term assistance would be great!
 6. Every person in Utah paying $1 once a month to go into an account to feed people. $3 million dollars monthly, $36 million a year just for people to use every month for food. People could just say at grocery stores and restaurants "I want to use the state fund" and all food-providers would have a card they could swipe. No questions asked.
-6a-banning the padlocking of dumpsters. If people eat your trash, they eat your trash. Get over it. There is too much food waste in this state.
+- Banning the padlocking of dumpsters. If people eat your trash, they eat your trash. Get over it. There is too much food waste in this state.
 7. Planting edible gardens and fruit trees in the public flower beds/road medians, that people can take from whenever they want/need to. Already paying a lot of people to maintain this public land, but it could be edible!
 8. Offering more drug treatment covered by medicaid that is not 12-step based, since a lot of people don't do recovery because they hate the 12 steps (and also the 12 steps aren't evidence-based).
-8b- More facilities where parents can keep their kids with them while they undergo treatment.
-8c- More treatment at night and on weekends, so that people can work and attend treatment at the same time (it is upsetting how many services are only available during the workday).
+- More facilities where parents can keep their kids with them while they undergo treatment.
+- More treatment at night and on weekends, so that people can work and attend treatment at the same time (it is upsetting how many services are only available during the workday).
 9. Paying social workers more money instead of investing in army equipment for police officers, so that the burn-out rate is lower, social workers remain in the field longer/become better at their jobs, and everyone is calmer and happier.
 10. Offering more low-income/free child care services in more locations so both parents can work and it actually makes sense financially.
 11. Spend more time in school focusing on reducing prejudice and stigma, so people are better equipped to help and support one another. Also teach de-escalation tactics, both for yourself and others, all throughout school, so there are fewer crisis situations.
