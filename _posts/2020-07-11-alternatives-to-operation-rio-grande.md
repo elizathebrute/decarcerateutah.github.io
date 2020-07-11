@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title: "Alternatives to Operation Rio Grande"
-description: Operation Rio Grande does not care about making Rio Grande safer for the homeless, they care about making it more palatable for business owners. That's why their "solution" involves brute force, violent power, and fast action. They want the homeless out of sight and out of mind. They aren't working on anything towards improving services and actually helping people (just look at the way they talk about the phase 2 and phase 3: they never account for how they will provide for the needs of 600 people arrested. They have yet to find treatment and services for so many people, but had no problem arresting all of them in a matter of days).
+description: Operation Rio Grande does not care about making Rio Grande safer for the homeless, they care about making it more palatable for business owners. That's why their solution involves brute force, violent power, and fast action. They want the homeless out of sight and out of mind. They aren't working on anything towards improving services and actually helping people. Just look at the way they talk about the phase 2 and phase 3: they never account for how they will provide for the needs of 600 people arrested. They have yet to find treatment and services for so many people, but had no problem arresting all of them in a matter of days.
 teaser_image: /images/teasers/alternatives to operation rio grande.jpg
 date: 2020-07-11
 ---
