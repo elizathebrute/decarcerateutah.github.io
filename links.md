@@ -5,6 +5,11 @@ permalink: /links/
 ---
 
 <div class="links">
+{% include button.html
+  url="https://www.decarcerateutah.org/2020/07/11/alternatives-to-operation-rio-grande.html"
+  text="Read 30 Alternatives to Operation Rio Grande"
+%} 
+  
 
 {% include button.html
   url="https://us02web.zoom.us/webinar/register/WN_geZuLSBLQ4-52h_NvKJ09Q"
