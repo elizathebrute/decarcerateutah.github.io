@@ -5,6 +5,12 @@ permalink: /links/
 ---
 
 <div class="links">
+
+{% include button.html
+  url="https://docs.google.com/document/d/11joZb7VSXgPhpTAZYh9Eqcy6ALo_kB_oBBYs77gLQ7M/edit"
+  text="#DefundWVCPD City Budget Resources"
+%} 
+
 {% include button.html
   url="https://www.decarcerateutah.org/2020/07/11/alternatives-to-operation-rio-grande.html"
   text="Read 30 Alternatives to Operation Rio Grande"
