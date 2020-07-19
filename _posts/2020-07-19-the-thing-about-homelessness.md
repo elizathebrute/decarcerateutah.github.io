@@ -31,7 +31,7 @@ The impoverished, the disabled, those afflicted by mental illness, the chronical
 
 Mitt Romney famously said: “I’m not worried about the poor; they have a safety net.”
 
-We Do? Really? Come spend a few days in your ‘safety net’ Mitt. You may just learn something.
+We Do? Really? Come spend a few days in our ‘safety net’ Mitt. You may just learn something.
 
 *K. Marlo Yost is a man with Autism Spectrum Disorder recovering from homelessness in a small apartment in Salt Lake City. He is writing a book based on his experiences.*
 
