@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "The Thing About Homelessness"
@@ -16,6 +15,7 @@ In Salt Lake, for example, the staff at the shelter were tasked with wearing shi
 The whole “help with housing” thing is, sadly, a bit of a cruel joke.
 
 The majority of those in the homeless population don’t or can’t qualify for any kind of housing for one reason or another. Many are hopelessly handicapped with one or more debilitating mental health issues that would preclude any successful housing placement. They shouldn’t be in a shelter, of course, but the availability of adequate psychiatric care is dramatically inadequate for the task. All of those decisions were made, however, by politicians far removed from the reality of homelessness.
+
 Others are too lost in addictions that desperately need treatment to be seriously considered for housing. But we have a war on drugs, not a war on addiction. There again, politicians.
 
 Others are already on Social Security, Disability, Veteran’s benefits, and various other support programs that are inadequate for the ever more expensive housing that is available. Some of those have been waiting for years for some kind of assistance in this regard. Once again; politicians.
