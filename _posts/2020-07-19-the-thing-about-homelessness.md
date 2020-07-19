@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Thing About Homelessness"
-description: Operation Rio Grande does not care about making Rio Grande safer for the homeless, they care about making it more palatable for business owners. That's why their solution involves brute force, violent power, and fast action. They want the homeless out of sight and out of mind. They aren't working on anything towards improving services and actually helping people. Just look at the way they talk about the phase 2 and phase 3—they never account for how they will provide for the needs of 600 people arrested. They have yet to find treatment and services for so many people, but had no problem arresting all of them in a matter of days.
+description: In spite of what some ignorant people would have you believe; the homeless population really isn’t comprised solely of drug-addled wastrels and lazy parasites. We are capable of being thinking, feeling, loved and loving people. Many, perhaps most, are mentally or physically disabled, unable to work and in need of better treatment options. In some cases, people in this group have been forgotten, abandoned by or are without family, and therefore do not have that support. 
 teaser_image: /images/teasers/the thing about homelessness.jpg
 date: 2020-07-19
 ---
