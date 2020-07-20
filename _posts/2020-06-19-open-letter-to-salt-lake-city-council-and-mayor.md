@@ -3,7 +3,6 @@ layout: post
 title: Open Letter to the Salt Lake City Council and Mayor
 description: Despite the community’s rallying emails, calls, public hearing comments, and protests asking the city council and mayor to defund our police department, they failed to listen. This open letter was written in response to the city’s failure to adopt the community’s demands.
 teaser_image: /images/teasers/blog image posts-08.jpg
-featured: true
 date: 2020-06-19
 ---
 {% include image.html
