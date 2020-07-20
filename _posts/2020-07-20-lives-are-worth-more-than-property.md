@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Lives Are Worth More Than Property"
-description: "Mendenhall claimed that the police only responded to the actions of protestors. “The intent didn’t change until after the destruction of the DAs office,” she told the Council Tuesday. “The protest tenor shifted dramatically, and then the police department did to reflect that.”  
-Yet the use of riot gear and vehicles, helicopters, the reinforcement of other police forces, and the warning for city employees to stay home all imply that SLCPD was prepared for a violent confrontation with protestors."
+description: "Mendenhall referred to the property damage several times as “violence.” When our city officials selectively classify violence as paint and broken windows, they devalue threats to actual lives and livelihoods. They prioritize the aesthetics of their deluxe offices over people’s pain and suffering. But we know the expression of grief and pain is not violence. We know that standing in the streets to draw attention to injustice is not violence. We know that breaking public windows–bought with our money–that do not feel pain, that do not have hopes and dreams, that do not have family members who love and mourn them, is not violence. We know that lives are beyond value, as opposed to buildings, which do not have feelings or a body for violence to be committed to them; nor do they have a community that will mourn for their loss or pain."
 teaser_image: /images/teasers/lives are worth more than property-09.jpg
 featured: true
 date: 2020-07-20
