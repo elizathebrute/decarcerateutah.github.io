@@ -14,18 +14,18 @@ In Utah, Indigenous communities are some of the most affected by the carceral sy
 
 Since Black queer radical feminists and marginalized peoples as a whole are at the forefront for movements toward abolition, we turn to them to inform our practices in education and organizing for prison industrial complex abolition in Utah. We are involved in education and outreach through sharing resources, hosting workshops, and organizing campaigns about the abolition of policing, prisons and jails, immigration enforcement, and surveillance, while pushing for abolition through policy advocacy, action campaigns, and community organizing. 
 
-#Our platform is simple:#
-##Divest from exploitative systems that the prison industrial complex thrives on.##
+#Our platform is simple:
+##Divest from exploitative systems that the prison industrial complex thrives on.
 1. A budget is a reflection of our values. We can start by reducing the funding that prisons, police, jails, detention centers, and private prisons receive at the city, county, and statewide level.
 2. Wealth inequality feeds the prison industrial complex. This has its roots in racial capitalism, a term that describes the system by which class exploitation is fundamentally racialized (rather than superseding or constructing race from class). 
 3. Under capitalism, money is power, control, and violence. This takes dignity and humanity out of accountability work. The only way to heal from harm and collective trauma is to direct power and material resources back into communities. 
 
-##Invest in community wholeness that allows for self-determinism and autonomy.##
+##Invest in community wholeness that allows for self-determinism and autonomy.
 1. By eliminating the conditions that create harm, we can begin healing from collective and intergenerational trauma. This means eliminating wealth disparities and establishing a universal baseline of wellness, so that individual and community needs are met. 
 2. A regenerative, reciprocal economy wherein people take care of and support each other would eliminate much of what we understand as “crime” simply because we would be meeting people’s needs and providing everyone with effective means of self determination. When we leave members of our community unsupported and criminalize their methods of survival, we exacerbate the problem without addressing its root.
 3. There is no single alternative to jail because jail has become a one-size-fits-all solution to many social problems. However, punishment does not solve these problems. In order to effectively mitigate harm, we need a constellation of alternative strategies and institutions before us so we are not limited to one source of influence (which would be susceptible to corruption). Because prisons act as a catch-all, we seek to understand and address harm at the many diverse levels at which prison fails to do so.
 
-#Points of Unity#
+#Points of Unity
 1. We support bringing the margins to the center in our campaign and educational work, and reject the notion that people—especially those who are marginalized based on race or class—are disposable, which is a primary function of the carceral system. 
 2. We oppose the expansion or construction of any new prison, jail, detention center, youth facility, or other operation that functions under a similar carceral framework.
 3. We support measures that will reduce the prison or jail populations until everyone is freed and prisons are obsolete.
