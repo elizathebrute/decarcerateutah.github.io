@@ -6,7 +6,8 @@ position: 1
 permalink: /about/
 ---
 
-Decarcerate Utah is a prison abolitionist collective that seeks to dismantle the prison-industrial complex and end the harm that it perpetuates. We aim to build safer communities by abolishing incarceration and policing—instead building life-giving and -sustaining systems and models such as mutual aid, reparations, and community self-governance. We also understand that the scope of harms inflicted upon those affected by the carceral system are often exacerbated along lines of marginalization and identity. 
+# About Us
+Decarcerate Utah is a prison abolitionist collective established in 2017 that seeks to dismantle the prison-industrial complex and end the harm that it perpetuates. We aim to build safer communities by abolishing incarceration and policing—instead building life-giving and -sustaining systems and models such as mutual aid, reparations, and community self-governance. We also understand that the scope of harms inflicted upon those affected by the carceral system are often exacerbated along lines of marginalization and identity. 
 
 Hence, fundamental to the demand for abolition is the demand for a reconstitution of society as we know it—that is, abolition cannot be fully realized without the fall of settler colonialism, racial capitalism, heteropatriarchy, ableism, and transmisogyny. As Ruth Wilson Gilmore has said, abolition is ultimately about presence: it tears down systems of harm while feeding the life-giving and life-sustaining institutions necessary to render the carceral system obsolete. With this in mind, our platform is simple, and calls for us to divest from prisons and invest in communities.
 
