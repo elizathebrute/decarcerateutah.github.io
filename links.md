@@ -7,6 +7,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://docs.google.com/document/d/11joZb7VSXgPhpTAZYh9Eqcy6ALo_kB_oBBYs77gLQ7M/edit"
+  text="#DefundWVCPD City Budget Resources"
+%} 
+
+{% include button.html
   url="https://www.decarcerateutah.org/2020/07/20/lives-are-worth-more-than-property.html"
   text="Read Lives Are Worth More Than Property"
 %} 
@@ -14,11 +19,6 @@ permalink: /links/
 {% include button.html
   url="https://www.decarcerateutah.org/2020/07/19/the-thing-about-homelessness.html"
   text="Read The Thing About Homelessness"
-%} 
-
-{% include button.html
-  url="https://docs.google.com/document/d/11joZb7VSXgPhpTAZYh9Eqcy6ALo_kB_oBBYs77gLQ7M/edit"
-  text="#DefundWVCPD City Budget Resources"
 %} 
 
 {% include button.html
