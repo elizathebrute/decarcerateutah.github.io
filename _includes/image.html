@@ -1,8 +1,23 @@
-<figure>
-  {% if include.url %}
-    <img src="{{ include.url }}" alt="{{ include.caption }}" />
+<figure class="post-image-container">
+  {% if include.alt %}
+    {% assign alt = include.alt %}
   {% else %}
-    <img src="{{ include.filename | prepend: site.baseurl }}" alt="{{ include.caption }}" />
+    {% assign alt = include.caption %}
   {% endif %}
-  <figcaption>{{ include.caption }}</figcaption>
+
+  {% if include.width %}
+    {% assign width = include.width %}
+  {% else %}
+    {% assign width = "100%" %}
+  {% endif %}
+
+  {% if include.url %}
+    <img src="{{ include.url }}" alt="{{ alt }}" style="width: {{ width }};" />
+  {% else %}
+    <img src="{{ include.filename | prepend: site.baseurl }}" alt="{{ alt }}" style="width: {{ width }};" />
+  {% endif %}
+
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
 </figure>
