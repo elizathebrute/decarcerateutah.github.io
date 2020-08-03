@@ -5,7 +5,11 @@ permalink: /links/
 ---
 
 <div class="links">
-
+{% include button.html
+  url="https://cwh.zoom.us/webinar/register/WN_LU0Q8SbASieLetFHtA3hIA"
+  text="Register for Cottonwood Heights City Council's public hearing session tuesday august 4th at 7pm"
+%} 
+  
 {% include button.html
   url="https://docs.google.com/document/d/11joZb7VSXgPhpTAZYh9Eqcy6ALo_kB_oBBYs77gLQ7M/edit"
   text="#DefundWVCPD City Budget Resources"
