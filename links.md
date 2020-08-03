@@ -7,7 +7,7 @@ permalink: /links/
 <div class="links">
 {% include button.html
   url="https://cwh.zoom.us/webinar/register/WN_LU0Q8SbASieLetFHtA3hIA"
-  text="Register for Cottonwood Heights City Council's public hearing session tuesday august 4th at 7pm"
+  text="Register for Cottonwood Heights City Council public hearing session tuesday august 4th at 7pm"
 %} 
   
 {% include button.html
