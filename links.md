@@ -9,11 +9,6 @@ permalink: /links/
   url="https://docs.google.com/forms/u/2/d/12wZXeKL64F9tNkI5HGHojmcrkgzavoqpIlMQ9XDZUNg/edit"
   text="What would you fund instead of West Valley Police?"
 %} 
-
-{% include button.html
-  url="https://cwh.zoom.us/webinar/register/WN_LU0Q8SbASieLetFHtA3hIA"
-  text="Register for Cottonwood Heights City Council public hearing session tuesday august 4th at 7pm"
-%} 
   
 {% include button.html
   url="https://docs.google.com/document/d/11joZb7VSXgPhpTAZYh9Eqcy6ALo_kB_oBBYs77gLQ7M/edit"
