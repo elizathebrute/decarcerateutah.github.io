@@ -6,6 +6,11 @@ permalink: /links/
 
 <div class="links">
 {% include button.html
+  url="https://www.decarcerateutah.org/2020/07/30/book-review-lethal-theater-susannah-nevison.html"
+  text="Read a Book Review of Lethal Theater"
+%} 
+
+{% include button.html
   url="https://www.change.org/p/salt-lake-city-district-attorney-sim-gill-protect-civil-liberties-demand-the-d-a-drop-all-charges-against-peaceful-protestors"
   text="Sign the petition: drop all charges for protesters"
 %} 
