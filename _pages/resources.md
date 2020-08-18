@@ -7,6 +7,10 @@ permalink: /resources/
 ---
 
 <div class="resources">
+{% include button.html
+  url="https://static1.squarespace.com/static/59ead8f9692ebee25b72f17f/t/5b65cd58758d46d34254f22c/1533398363539/CR_NoCops_reform_vs_abolition_CRside.pdf"
+  text="Reformist reforms vs. abolitionist steps in policing"
+%}
 
 {% include button.html
   url="https://www.aaihs.org/prison-abolition-syllabus/"
