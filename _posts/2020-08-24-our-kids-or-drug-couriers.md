@@ -34,18 +34,18 @@ In addition to the tradition of racism, via the drug courier profile, used in pr
  
 By the 2000s, states began to be concerned about the War on Drugs’ effect on prison populations, as mandatory federal sentencing requirements filled prisons with non-violent drug offenders. In 2006, California was the first of a wave of states to reduce penalties for possession. Utah followed suit in 2015. This appears to, and may in fact, mark a long overdue scaling down of the War of Drugs. But a 2015 report from the Department of Justice points out that 99.5% of drug offenders in federal prison were serving sentences for drug trafficking (8). Considering the racism of anti-trafficking initiatives such as Operation Pipeline, this seems to indicate that the carceral state continues to target people of color in enforcing drug laws by massaging the definitions of “possession” and “trafficking.” While Utah’s attitudes toward the incarceration of drug offenders has changed over time, there could also be continuity in who the dominant Utahn community considers to be dangerous. When “our kids” are experimenting with drugs, it is a bit of harmless fun; possession in that case should carry lenient penalties. But when a “Mexican criminal gang” is engaged in trafficking, we see incarceration as a necessary punishment to keep them off the streets. Because of the history of racism in the War of Drugs, we should maintain a healthy skepticism toward the ways in which law enforcement tries to characterize drug users.
 
-*Nate Housley is a labor historian and writer with an MA from the University of Utah. twitter: @nate_housley*
+*Nate Housley is a labor historian and writer with an MA from the University of Utah. twitter: [@nate_housley](twitter.com/@nate_housley)*
  
 **References**
  
 1. Eric Schlosser. Reefer Madness Sex, Drugs, and Cheap Labor in the American Black Market. Boston: Houghton Mifflin, 2004.
-2. “In our opinion: Time for peace in the war on drugs.” Deseret News, October 25, 2018. https://www.deseret.com/2018/10/25/20656892/in-our-opinion-time-for-peace-in-the-war-on-drugs
+2. “In our opinion: Time for peace in the war on drugs.” Deseret News, October 25, 2018. [https://www.deseret.com/2018/10/25/20656892/in-our-opinion-time-for-peace-in-the-war-on-drugs](https://www.deseret.com/2018/10/25/20656892/in-our-opinion-time-for-peace-in-the-war-on-drugs)
 3. John F. Galliher and Linda Basilick. "Utah's Liberal Drug Laws: Structural Foundations and Triggering Events.” Social Problems. 26, no. 3 (1979): 284-297.
-4. David A. Harris. “Driving While Black: Racial Profiling Highways.” An American Civil Liberties Union Special Report, June 1999. https://www.aclu.org/report/driving-while-black-racial-profiling-our-nations-highways
-5. California State Task Force on Government Oversight. “Operation Pipeline.” September 29, 1999. http://www.aclunc.org/discrimination/webb-report.html
-6. Mark L. Reece. “Utah intensifies war on drug trafficking.” Deseret News, February 23, 1997. https://www.deseretnews.com/article/545003/UTAH-INTENSIFIES-WAR-ON-DRUG-TRAFFICKING.html
-7. United States Department of Justice. “Utah Drug Threat Assessment.” Product No. 2003-S0389UT-001. March 2003. https://www.justice.gov/archive/ndic/pubs3/3619/3619p.pdf
-8. Sam Taxy, Julie Samuels, and William Adams. “Drug Offenders in Federal Prison: Estimates of Characteristics Based on Linked Data.” United States Department of Justice Special Report. October 2015. https://www.bjs.gov/content/pub/pdf/dofp12.pdf
+4. David A. Harris. “Driving While Black: Racial Profiling Highways.” An American Civil Liberties Union Special Report, June 1999. [https://www.aclu.org/report/driving-while-black-racial-profiling-our-nations-highways](https://www.aclu.org/report/driving-while-black-racial-profiling-our-nations-highways)
+5. California State Task Force on Government Oversight. “Operation Pipeline.” September 29, 1999. [http://www.aclunc.org/discrimination/webb-report.html](http://www.aclunc.org/discrimination/webb-report.html)
+6. Mark L. Reece. “Utah intensifies war on drug trafficking.” Deseret News, February 23, 1997. [https://www.deseretnews.com/article/545003/UTAH-INTENSIFIES-WAR-ON-DRUG-TRAFFICKING.html](https://www.deseretnews.com/article/545003/UTAH-INTENSIFIES-WAR-ON-DRUG-TRAFFICKING.html)
+7. United States Department of Justice. “Utah Drug Threat Assessment.” Product No. 2003-S0389UT-001. March 2003. [https://www.justice.gov/archive/ndic/pubs3/3619/3619p.pdf](https://www.justice.gov/archive/ndic/pubs3/3619/3619p.pdf)
+8. Sam Taxy, Julie Samuels, and William Adams. “Drug Offenders in Federal Prison: Estimates of Characteristics Based on Linked Data.” United States Department of Justice Special Report. October 2015. [https://www.bjs.gov/content/pub/pdf/dofp12.pdf](https://www.bjs.gov/content/pub/pdf/dofp12.pdf)
 
 
 {% include image.html
