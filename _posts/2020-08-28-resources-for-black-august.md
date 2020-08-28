@@ -12,7 +12,7 @@ date: 2020-08-28
 {% include image.html
   filename="/images/blood in my eye.JPG"
   alt="book cover for Blood in My Eye by George Jackson"
-  width="70%"
+  width="50%"
 %}
 - George Jackson, [Blood in My Eye](https://drive.google.com/file/d/1nqdqDmrWN0fCBRHGucyjb4YVoZFKbx3U/view) 
 
