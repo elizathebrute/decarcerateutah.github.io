@@ -17,6 +17,7 @@ The significance and impact of Black radical thinkers and writers cannot be unde
   alt="book cover for Blood in My Eye by George Jackson"
   width="50%"
 %}
+*Curated by BIPOC leaders with Party for Socialism and Liberation - Salt Lake, and Decarcerate Utah* 
 - George Jackson, [Blood in My Eye](https://drive.google.com/file/d/1nqdqDmrWN0fCBRHGucyjb4YVoZFKbx3U/view) 
 - Assata Shakur, [Assata](https://drive.google.com/file/d/1ekJYSrC5kCpIulMDvvv9tWGj-UlU_MBi/view)
 - C.L.R. James, [The Black Jacobins](https://drive.google.com/file/d/1FTs1YIYFRs6vjioIrShy0MtUcbpsuA2q/view)
