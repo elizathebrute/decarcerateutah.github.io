@@ -7,6 +7,16 @@ permalink: /links/
 
 <div class="links">
 {% include button.html
+  url="https://www.decarcerateutah.org/courtsupport/"
+  text="Sign Up to be a Court Support Volunteer"
+%} 
+  
+ {% include button.html
+  url="https://www.gofundme.com/f/support-local-protester-charged"
+  text="Donate to Eric Javier's Legal Fund"
+%}  
+
+{% include button.html
   url="https://www.decarcerateutah.org/2020/08/24/our-kids-or-drug-couriers.html"
   text="Read Our Kids Or Drug Couriers"
 %} 
