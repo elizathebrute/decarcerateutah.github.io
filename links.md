@@ -7,6 +7,21 @@ permalink: /links/
 
 <div class="links">
 {% include button.html
+  url="https://www.decarcerateutah.org/courtsupport/"
+  text="Sign up to Volunteer with Court Support"
+%} 
+  
+{% include button.html
+  url="https://www.gofundme.com/f/support-local-protester-charged"
+  text="Donate to Eric Javier's Legal Fund"
+%} 
+
+{% include button.html
+  url="https://council-equity-slcgov.hub.arcgis.com/"
+  text="View SLC's Racial Equity and Policing Progress Report"
+%} 
+
+{% include button.html
   url="https://www.decarcerateutah.org/2020/08/24/our-kids-or-drug-couriers.html"
   text="Read Our Kids Or Drug Couriers"
 %} 
@@ -14,11 +29,6 @@ permalink: /links/
 {% include button.html
   url="https://www.change.org/p/salt-lake-city-district-attorney-sim-gill-protect-civil-liberties-demand-the-d-a-drop-all-charges-against-peaceful-protestors"
   text="Sign the petition: drop all charges for protesters"
-%} 
-
-{% include button.html
-  url="https://docs.google.com/forms/u/2/d/12wZXeKL64F9tNkI5HGHojmcrkgzavoqpIlMQ9XDZUNg/edit"
-  text="What would you fund instead of West Valley Police?"
 %} 
   
 {% include button.html
